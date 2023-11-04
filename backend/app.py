@@ -5,59 +5,19 @@ from werkzeug.utils import secure_filename
 from multiprocessing import Process
 import subprocess
 import json
+from redis import Redis
+from rq import Queue
+from run_job import run_job
 
 app = Flask(__name__)
 CORS(app)
 
 
-app.config['UPLOAD_FOLDER'] = '/Users/bx/Desktop/bccp/backend/data' 
+app.config['UPLOAD_FOLDER'] = './data' 
 
-
-def run_job(job_id, script_path):
-    try:
-        cmd = [
-            'Rscript', "/Users/bx/Desktop/bccp/backend/methods/BLISS/BLISS_Association.R",
-            '--sumstats', 'Stroke_eur_GBMI_CHR22.sumstats',
-            '--sumstats_dir', '/Users/bx/Desktop/bccp/backend/methods/BLISS/',
-            '--weights_models', 'UKB',
-            '--CHR', '22',
-            '--output_dir', '/Users/bx/Desktop/bccp/backend/methods/BLISS/out/',
-            '--output_name', f'stroke_res_{job_id}.txt'
-        ]
-        process = subprocess.Popen(cmd, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
-        stdout, stderr = process.communicate()
-
-        process.wait()
-        
-        if process.returncode == 0:
-            
-            with open("/Users/bx/Desktop/bccp/backend/jobs.json", "r") as f:
-                jobs = json.load(f)
-            
-            for job in jobs["1"]:
-                if job["id"] == job_id:
-                    job["status"] = "completed"
-                    job["result"] = f'stroke_res_{job_id}.txt'
-                    break
-
-            with open("/Users/bx/Desktop/bccp/backend/jobs.json", "w") as f:
-                json.dump(jobs, f)
-
-            print(f"Job {job_id} finished successfully")
-        else:
-            print(f"Job {job_id} failed with the following error:\n{stderr.decode('utf-8')}")
-
-    except Exception as e:
-        print(f"An error occurred while running job {job_id}: {str(e)}")
-
-# def update_jobs(job_id, jobs):
-#     print(len(jobs))
-#     for job in jobs:
-#         print(job["id"])
-#         if job["id"] == job_id:
-#             job["status"] = "completed"
-#             job["result"] = f'stroke_res_{job_id}.txt'
-#             break
+# redis_conn = Redis(port=6379, decode_responses=True)
+redis_conn =  Redis(host = "redis", port=6379, decode_responses=True)
+q = Queue(connection=redis_conn) 
 
 @app.route('/api/upload', methods=['POST'])
 def upload_file():
@@ -81,39 +41,63 @@ def upload_file():
 
 @app.route('/api/get_jobs', methods=['GET'])
 def get_jobs():
-    with open("/Users/bx/Desktop/bccp/backend/jobs.json", "r") as f:
+    email = request.args.get('email')
+    with open("./jobs.json", "r") as f:
         jobs = json.load(f)
-    jobs = jobs["1"]
+    if email not in jobs:
+        jobs[email] = []
+    jobs = jobs[email]
     return jsonify(jobs)
+
 
 @app.route('/api/add_job', methods=['POST'])
 def add_job():
-    with open("/Users/bx/Desktop/bccp/backend/jobs.json", "r") as f:
+    with open("./jobs.json", "r") as f:
         jobs = json.load(f)
-    if "1" not in jobs:
-        jobs["1"] = []
-    job_id = len(jobs["1"]) + 1
-    jobs["1"].append({
-        'id': job_id,
-        'name': request.get_json()['name'],
-        'status': 'running',
-    })
+    email = request.get_json()["data"]['email']
+    if email not in jobs:
+        jobs[email] = []
+    job_id = len(jobs[email]) + 1
+    name = request.get_json()["data"]['name']
+    ancestry = request.get_json()["data"]['ancestry']
+    models = request.get_json()["data"]['models']
+    chrNumber = request.get_json()["data"]['CHR']
+    file = request.get_json()["data"]['file']
+    for i in models:
+        for j in chrNumber:
+            job_info = {
+                'id': job_id,
+                'name': name + "_" + i + "_CHR" + str(j),
+                'ancestry': ancestry,
+                'models': i,
+                'CHR': j,
+                'file': file,
+                'status': 'queued', 
+            }
+            jobs[email].append(job_info)
+   
+            job = q.enqueue(run_job, job_id, email, ancestry, i, j, file)
+            job_id += 1
 
-    with open("/Users/bx/Desktop/bccp/backend/jobs.json", "w") as f:
+    with open("./jobs.json", "w") as f:
         json.dump(jobs, f)
-
-    job = Process(target=run_job, args=(job_id,""))
-    job.start()
 
     return jsonify(success=True)
 
-@app.route('/api/download/<filename>', methods=['GET'])
-def download_file(filename):
+@app.route('/api/download/<user>/<filename>', methods=['GET'])
+def download_file(user, filename):
+    print(user)
     print(filename)
-    output_dir = '/Users/bx/Desktop/bccp/backend/methods/BLISS/out/' 
-    filename = f'stroke_res_{filename}.txt'
-    return send_from_directory(output_dir, filename, as_attachment=True)
+    name = ""
+    output_dir = './methods/BLISS/out/' 
+    with open("./jobs.json", "r") as f:
+        jobs = json.load(f)
+    for job in jobs[str(user)]:
+        if job["id"] == int(filename):
+            name = job["result"]
+            break
+    return send_from_directory(output_dir, name, as_attachment=True)
 
 
 if __name__ == '__main__':
-    app.run(debug=True, use_reloader=False, port=5000, threaded=True, processes=3)
+    app.run(debug=True, use_reloader=False, port=5000, threaded=True)

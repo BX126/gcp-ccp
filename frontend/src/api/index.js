@@ -8,12 +8,12 @@ const runModel = async (data) => {
   return post("/run", { data: data });
 };
 
-const getJobs = async () => {
-  return get("/get_jobs");
+const getJobs = async (email) => {
+  return get("/get_jobs", { email: email});
 }
 
 const addJobs = async (data) => {
-  return post("/add_job", { name: data });
+  return post("/add_job", { data: data });
 }
 
 const apis = {

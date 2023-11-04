@@ -17,17 +17,27 @@ import { useEffect } from "react";
 import { useNavigate } from "react-router-dom";
 import apis from "../../api";
 import ArrowBackIcon from "@mui/icons-material/ArrowBack";
+import { useSelector, useDispatch } from "react-redux";
 
 export const ProcessPage = () => {
   const navigate = useNavigate();
-  const location = useLocation();
-  const props = location.state.data;
+  const email = useSelector((state) => state.user.email);
+  const fileName = useSelector((state) => state.user.fileName);
 
   const [selectedModels, setSelectedModels] = useState([]);
-  const [chrNumbers, setChrNumbers] = useState([...Array(22).keys()]);
+  const [chrNumbers, setChrNumbers] = useState([...Array(22).keys()].map((_, index) => index + 1));
   const [jobName, setJobName] = useState("");
   const handleRun = () => {
-    apis.addJobs(jobName).then(navigate("/result"));
+    const data = {
+      name: jobName,
+      email: email,
+      file: fileName,
+      ancestry: ancestry,
+      models: selectedModels,
+      CHR: chrNumbers,
+    };
+    console.log(data)
+    apis.addJobs(data).then(navigate("/result"));
   };
   const [ancestry, setAncestry] = useState("European");
 

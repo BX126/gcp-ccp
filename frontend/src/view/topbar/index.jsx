@@ -34,7 +34,12 @@ export const TopBar = () => {
 
   const handleUploadNewData = () => {
     handleClose();
-    navigate("/home");
+    navigate("/data");
+  }
+
+  const handleUploadNewJob = () => {
+    handleClose();
+    navigate("/process");
   }
 
   const handleLogOut = () => {
@@ -73,6 +78,7 @@ export const TopBar = () => {
         >
           <MenuItem onClick={handleMyJobs}>My Jobs</MenuItem>
           <MenuItem onClick={handleUploadNewData}>Upload New Data</MenuItem>
+          <MenuItem onClick={handleUploadNewJob}>Submit New Job</MenuItem>
           <MenuItem onClick={handleLogOut}>Log out</MenuItem>
         </Menu>
       </Toolbar>
