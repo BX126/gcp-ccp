@@ -20,7 +20,7 @@ export const ResultPage = () => {
   ]);
   const determinStatus = (job) => {
     if (job.status === "completed") {
-      const downloadLink = `http://127.0.0.1:5000/api/download/${email}/${job.id}`;
+      const downloadLink = `http://18.189.7.189:5000/api/download/${email}/${job.id}`;
       return (
         <div>
           {job.status} <a href={downloadLink} download>Download Result</a>
@@ -33,9 +33,8 @@ export const ResultPage = () => {
   useEffect(() => {
     const intervalId = setInterval(() => {
       console.log(email);
-      // get jobs with email
       axios
-        .get("http://127.0.0.1:5000/api/get_jobs", {params: {
+        .get("http://18.189.7.189:5000/api/get_jobs", {params: {
           email: email
         }})
         .then((response) => {

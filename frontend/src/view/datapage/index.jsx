@@ -221,6 +221,7 @@ export const DataPage = () => {
                   type="submit"
                   variant="contained"
                   fullWidth
+                  {...(uploading && { disabled: true })}
                   sx={{ color: "white", backgroundColor: "darkgray" }}
                 >
                   Next
