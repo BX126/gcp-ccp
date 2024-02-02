@@ -7,6 +7,7 @@ import { ResultPage } from './view/resultpage';
 import { ProcessPage } from './view/processpage';
 import { Routes, Route, BrowserRouter } from 'react-router-dom';
 import { ThemeProvider, createTheme } from '@mui/material/styles';
+import InteractiveTable from './view/gwascatalogpage';
 
 const theme = createTheme({
   typography: {
@@ -26,6 +27,7 @@ function App() {
             <Route path="/data" element={<DataPage />} />
             <Route path="/result" element={<ResultPage />} />
             <Route path="/process" element={<ProcessPage />} />
+            <Route path="/gwascatalog" element={<InteractiveTable />} />
           </Routes>
         </BrowserRouter>
       </ThemeProvider>

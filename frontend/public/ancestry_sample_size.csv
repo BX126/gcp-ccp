@@ -1,0 +1,1157 @@
+DISEASE/TRAIT,Processed_Ancestries,Processed_Sample_Sizes,STUDY ACCESSION
+Left-handedness,['European'],[1766671],GCST90013421
+Estimated glomerular filtration rate (creatinine),['European'],[1004040],GCST90103634
+Diastolic blood pressure,['European'],[810865],GCST90000059
+Hypertension,['European'],[810865],GCST90000060
+Pulse pressure,['European'],[810865],GCST90000061
+Systolic blood pressure,['European'],[810865],GCST90000062
+Depression,['European'],[688809],GCST006477
+Blood urea nitrogen levels,"['European', 'Unknown']","[679531, 173149]",GCST90103632
+Frozen shoulder,['European'],[627998],GCST90000513
+C-reactive protein levels,['European'],[575531],GCST90029070
+Hemoglobin concentration,['European'],[563946],GCST90002310
+Hematocrit,['European'],[562259],GCST90002304
+White blood cell count,['European'],[562243],GCST90002374
+Red blood cell count,['European'],[545203],GCST90002363
+Mean corpuscular volume,['European'],[544127],GCST90002334
+Age at first birth,['European'],[542901],GCST90000050
+Platelet count,['European'],[542827],GCST90002357
+Red cell distribution width,['European'],[531774],GCST90002369
+Lymphocyte count,['European'],[524923],GCST90002316
+Monocyte count,['European'],[521594],GCST90002340
+Neutrophil count,['European'],[519288],GCST90002351
+Noncognitive aspects of educational attainment,['European'],[510795],GCST90011874
+Serum 25-Hydroxyvitamin D levels,['European'],[496946],GCST90000618
+Mean corpuscular hemoglobin concentration,['European'],[491553],GCST90002328
+Mean corpuscular hemoglobin,['European'],[486823],GCST90002322
+Eosinophil counts,['European'],[474237],GCST90002298
+Basophil count,['European'],[474001],GCST90002292
+Alzheimer's disease or family history of Alzheimer's disease,['European'],[472868],GCST90012877
+Mean platelet volume,['European'],[460935],GCST90002346
+Waist-to-hip ratio adjusted for BMI,['European'],[458349],GCST90025996
+Height,['European'],[458235],GCST90025949
+Body mass index,['European'],[457756],GCST90025994
+Daytime nap,['European'],[452633],GCST011494
+Appendicular lean mass,['European'],[450243],GCST90000025
+Neuroticism,['European'],[449484],GCST006476
+Heel bone mineral density T score,['European'],[445855],GCST90025982
+Hemoglobin levels,['European'],[445373],GCST90025969
+Mean platelet volume,['European'],[445364],GCST90025960
+Red blood cell count,['European'],[445305],GCST90025964
+Platelet count,['European'],[444866],GCST90025951
+White blood cell count,['European'],[444734],GCST90025985
+Mean corpuscular volume,['European'],[444035],GCST90025963
+Neutrophil count,['European'],[443782],GCST90025977
+Lymphocyte count,['European'],[443762],GCST90025984
+Monocyte count,['European'],[443529],GCST90025950
+Mean corpuscular hemoglobin concentration,['European'],[443081],GCST90025962
+Red cell distribution width,['European'],[441263],GCST90025988
+Eosinophil counts,['European'],[440275],GCST90025987
+Basophil count,['European'],[438607],GCST90025997
+Immature fraction of reticulocytes,['European'],[438154],GCST90025971
+Serum alkaline phosphatase levels,['European'],[437896],GCST90025947
+Total cholesterol levels,['European'],[437878],GCST90025953
+Cystatin C levels,['European'],[437846],GCST90025945
+Hemoglobin A1c levels,['European'],[437749],GCST90025974
+Mean sphered cell volume,['European'],[437736],GCST90025976
+Alanine aminotransferase levels,['European'],[437724],GCST90025979
+High light scatter reticulocyte count,['European'],[437723],GCST90025970
+Creatinine levels,['European'],[437660],GCST90025946
+Gamma glutamyl transferase levels,['European'],[437651],GCST90025966
+Serum urea levels,['European'],[437580],GCST90025991
+Triglyceride levels,['European'],[437532],GCST90025957
+Urate levels,['European'],[437354],GCST90025965
+Reticulocyte count,['European'],[437291],GCST90025972
+Liver enzyme levels (alanine transaminase),['European'],[437267],GCST90013405
+Direct low density lipoprotein cholesterol levels,['European'],[437068],GCST90025954
+Mean reticulocyte volume,['European'],[436944],GCST90025975
+C-reactive protein levels,['European'],[436939],GCST90025959
+Aspartate aminotransferase levels,['European'],[436275],GCST90025980
+Bilirubin levels,['European'],[436055],GCST90025973
+Apolipoprotein B levels,['European'],[435744],GCST90025952
+Insulin-like growth factor 1 levels,['European'],[435516],GCST90025989
+Tea consumption,['European'],[434171],GCST90096926
+Low density lipoprotein cholesterol levels,['European'],[431167],GCST90002412
+Total testosterone levels,['European'],[425097],GCST90012114
+Systolic blood pressure,['European'],[422713],GCST90025968
+Diastolic blood pressure,['European'],[422713],GCST90025981
+Age at first birth,['European'],[418758],GCST90000048
+Vitamin D levels,['European'],[418691],GCST90025967
+Serum 25-Hydroxyvitamin D levels,['European'],[417580],GCST90000614
+Serum 25-Hydroxyvitamin D levels,['European'],[417580],GCST90000616
+Serum albumin levels,['European'],[400938],GCST90025992
+Calcium levels,['European'],[400792],GCST90025990
+HDL cholesterol levels,['European'],[400754],GCST90025956
+Serum total protein level,['European'],[400482],GCST90025995
+Blood glucose levels,['European'],[400458],GCST90025986
+Serum phosphate levels,['European'],[400159],GCST90025948
+Apolipoprotein A1 levels,['European'],[398508],GCST90025955
+Age at first sexual intercourse,['European'],[397338],GCST90000047
+Sex hormone-binding globulin levels,['European'],[397043],GCST90025958
+Alanine aminotransferase levels,['European'],[390812],GCST90011898
+Aspartate aminotransferase levels,['European'],[389565],GCST90011899
+Bioavailable testosterone levels,['European'],[382988],GCST90012104
+Urinary albumin excretion,['European'],[382500],GCST006586
+Neurociticism,['European'],[380506],GCST006940
+Moderate to vigorous physical activity levels,['European'],[377234],GCST006097
+Feeling lonely,['European'],[376352],GCST006942
+Feeling miserable,['European'],[376097],GCST006943
+Feeling fed-up,['European'],[374971],GCST006947
+Experiencing mood swings,['European'],[373733],GCST006944
+Feeling guilty,['European'],[373380],GCST006945
+Annual healthcare cost,['European'],[373160],GCST90292604
+Feeling nervous,['European'],[373121],GCST006948
+Feeling worry,['European'],[372869],GCST006950
+Direct bilirubin levels,['European'],[372420],GCST90025983
+Feeling hurt,['European'],[372047],GCST006951
+Lung function (FEV1/FVC),['European'],[371898],GCST90025978
+Lung function (FVC),['European'],[371898],GCST90025998
+Feeling tense,['European'],[371318],GCST006952
+Sex hormone-binding globulin levels,['European'],[370125],GCST90012111
+Sex hormone-binding globulin levels adjusted for BMI,['European'],[368929],GCST90012110
+Worry too long after an embarrassing experience,['European'],[367725],GCST006946
+Irritable mood,['European'],[366726],GCST006941
+Depressed affect,['European'],[357957],GCST006475
+Lipoprotein (a) levels,['European'],[348806],GCST90025993
+Worry,['European'],[348219],GCST006478
+Reaction time,['European'],[330069],GCST006268
+Neuroticism,['European'],[329821],GCST005232
+FEV1,['European'],[321047],GCST007432
+Lung function (FEV1/FVC),['European'],[321047],GCST007431
+Lung function (FVC),['European'],[321047],GCST007429
+Peak expiratory flow,['European'],[321047],GCST007430
+Percentage of invited food questionnaires completed,['European'],[300639],GCST90012790
+Family history of Alzheimer's disease,"['British', 'European']","[42034, 272244]",GCST005921
+Intelligence,['European'],[269867],GCST006250
+Cognitive performance,['European'],[257841],GCST006572
+Cognitive aspects of educational attainment,['European'],[257700],GCST90011875
+Age at first sexual intercourse,['European'],[214547],GCST90000045
+Diastolic blood pressure,['European'],[201529],GCST006258
+Systolic blood pressure,['European'],[201529],GCST006259
+Fasting glucose,['European'],[200622],GCST90002232
+Age at first sexual intercourse,['European'],[182791],GCST90000046
+Frailty index,['European'],[175226],GCST90020053
+Hematocrit,['European'],[173039],GCST004604
+Red blood cell count,['European'],[172952],GCST004601
+Hemoglobin concentration,['European'],[172925],GCST004615
+Mean corpuscular hemoglobin concentration,['European'],[172851],GCST004605
+White blood cell count,['European'],[172435],GCST004610
+Mean corpuscular volume,['European'],[172433],GCST004602
+Eosinophil percentage of white cells,['European'],[172378],GCST004600
+Mean corpuscular hemoglobin,['European'],[172332],GCST004630
+Eosinophil counts,['European'],[172275],GCST004606
+Basophil percentage of white cells,['European'],[171996],GCST004631
+White blood cell count (basophil),['European'],[171846],GCST004618
+Sum eosinophil basophil counts,['European'],[171771],GCST004624
+Lymphocyte percentage of white cells,['European'],[171748],GCST004632
+Lymphocyte count,['European'],[171643],GCST004627
+Neutrophil percentage of white cells,['European'],[171542],GCST004633
+Red cell distribution width,['European'],[171529],GCST004621
+Neuroticism,['European'],[170911],GCST003770
+High light scatter reticulocyte percentage of red cells,['European'],[170763],GCST004612
+High light scatter reticulocyte count,['European'],[170761],GCST004611
+Monocyte count,['European'],[170721],GCST004625
+Neutrophil count,['European'],[170702],GCST004629
+Reticulocyte fraction of red cells,['European'],[170690],GCST004619
+Neutrophil percentage of granulocytes,['European'],[170672],GCST004623
+Reticulocyte count,['European'],[170641],GCST004622
+Immature fraction of reticulocytes,['European'],[170548],GCST004628
+Eosinophil percentage of granulocytes,['European'],[170536],GCST004617
+Monocyte percentage of white cells,['European'],[170494],GCST004609
+Sum neutrophil eosinophil counts,['European'],[170384],GCST004613
+Basophil percentage of granulocytes,['European'],[170223],GCST004634
+Sum basophil neutrophil counts,['European'],[170143],GCST004620
+Granulocyte count,['European'],[169822],GCST004614
+Granulocyte percentage of myeloid white cells,['European'],[169545],GCST004608
+Myeloid white cell count,['European'],[169219],GCST004626
+Neuroticism,['European'],[168105],GCST005327
+Stool frequency,['European'],[167875],GCST90002250
+Platelet count,['European'],[166066],GCST004603
+Mean platelet volume,['European'],[164454],GCST004599
+Platelet distribution width,['European'],[164433],GCST004616
+Plateletcrit,['European'],[164339],GCST004607
+Fasting insulin,['European'],[151013],GCST90002238
+Glycated hemoglobin levels,['European'],[146806],GCST90002244
+Birth weight,['European'],[133903],GCST007557
+Glomerular filtration rate (creatinine),['European'],[133413],GCST003372
+Arterial stiffness index,['European'],[127121],GCST008403
+Educational attainment (college completion),['European'],[126559],GCST002047
+Age at first birth,['European'],[124088],GCST90000049
+Mean arterial pressure,"['European', 'Unknown', 'Unknown']","[120473, 21503, 4586]",GCST006231
+Diastolic blood pressure,"['European', 'Unknown', 'Unknown']","[120473, 21503, 4586]",GCST006227
+Pulse pressure,"['European', 'Unknown', 'Unknown']","[120473, 21503, 4586]",GCST006230
+Hypertension,"['European', 'Unknown', 'Unknown']","[120473, 21503, 4586]",GCST006229
+Systolic blood pressure,"['European', 'Unknown', 'Unknown']","[120473, 21503, 4586]",GCST006228
+Glomerular filtration rate in non diabetics (creatinine),['European'],[118448],GCST003401
+Ratio of apolipoprotein B to apolipoprotein A1 levels,['European'],[115082],GCST90092810
+Apolipoprotein A1 levels,['European'],[115082],GCST90092808
+Cholesterol levels in IDL,['European'],[115082],GCST90092831
+Cholesterol to total lipids ratio in IDL,['European'],[115082],GCST90092832
+Free cholesterol levels in IDL,['European'],[115082],GCST90092835
+Free cholesterol to total lipids ratio in IDL,['European'],[115082],GCST90092836
+Cholesteryl esters to total lipids ratio in IDL,['European'],[115082],GCST90092834
+Total lipid levels in IDL,['European'],[115082],GCST90092837
+Total lipid levels in large HDL,['European'],[115082],GCST90092850
+Concentration of large HDL particles,['European'],[115082],GCST90092851
+Phospholipid levels in large HDL,['European'],[115082],GCST90092852
+Free cholesterol levels in large VLDL,['European'],[115082],GCST90092872
+Total lipid levels in large VLDL,['European'],[115082],GCST90092874
+Cholesterol levels in medium LDL,['European'],[115082],GCST90092904
+Cholesterol to total lipids ratio in medium LDL,['European'],[115082],GCST90092905
+Cholesteryl ester levels in medium LDL,['European'],[115082],GCST90092906
+Cholesteryl esters to total lipids ratio in medium LDL,['European'],[115082],GCST90092907
+Free cholesterol levels in medium LDL,['European'],[115082],GCST90092908
+Triglycerides to total lipids ratio in small LDL,['European'],[115082],GCST90092967
+Cholesterol levels in small VLDL,['European'],[115082],GCST90092968
+Cholesterol to total lipids ratio in small VLDL,['European'],[115082],GCST90092969
+Cholesteryl ester levels in small VLDL,['European'],[115082],GCST90092970
+Total phospholipid levels in lipoprotein particles,['European'],[115082],GCST90092991
+Total concentration of lipoprotein particles,['European'],[115082],GCST90092990
+Total triglycerides levels,['European'],[115082],GCST90092992
+Phospholipid levels in very large HDL,['European'],[115082],GCST90093012
+Concentration of very large HDL particles,['European'],[115082],GCST90093011
+Cholesterol levels in very small VLDL,['European'],[115082],GCST90093028
+Triglyceride levels in very large VLDL,['European'],[115082],GCST90093026
+Cholesterol levels in large HDL,['European'],[115082],GCST90092844
+Phospholipid levels in HDL,['European'],[115082],GCST90092827
+Average diameter for HDL particles,['European'],[115082],GCST90092828
+Triglyceride levels in IDL,['European'],[115082],GCST90092841
+Triglycerides to total lipids ratio in IDL,['European'],[115082],GCST90092842
+Cholesterol levels in large VLDL,['European'],[115082],GCST90092868
+Cholesteryl ester levels in large VLDL,['European'],[115082],GCST90092870
+Phospholipids to total lipids ratio in medium HDL,['European'],[115082],GCST90092901
+Triglyceride levels in medium HDL,['European'],[115082],GCST90092902
+Phospholipid levels in medium HDL,['European'],[115082],GCST90092900
+Total lipid levels in medium HDL,['European'],[115082],GCST90092898
+Triglyceride levels in medium VLDL,['European'],[115082],GCST90092926
+Triglycerides to total lipids ratio in medium VLDL,['European'],[115082],GCST90092927
+Cholesteryl esters to total lipids ratio in small HDL,['European'],[115082],GCST90092947
+Free cholesterol levels in small HDL,['European'],[115082],GCST90092948
+Free cholesterol to total lipids ratio in small HDL,['European'],[115082],GCST90092949
+Concentration of medium HDL particles,['European'],[115082],GCST90092899
+Phospholipid levels in small VLDL,['European'],[115082],GCST90092976
+Triglyceride levels in small VLDL,['European'],[115082],GCST90092978
+Concentration of small VLDL particles,['European'],[115082],GCST90092975
+VLDL cholesterol levels,['European'],[115082],GCST90092996
+Total lipid levels in very large HDL,['European'],[115082],GCST90093010
+Free cholesterol levels in HDL,['European'],[115082],GCST90092824
+Total lipid levels in HDL,['European'],[115082],GCST90092825
+Cholesteryl ester levels in HDL,['European'],[115082],GCST90092823
+Concentration of HDL particles,['European'],[115082],GCST90092826
+Phospholipids to total lipids ratio in large HDL,['European'],[115082],GCST90092853
+Concentration of large VLDL particles,['European'],[115082],GCST90092875
+Phospholipid levels in large VLDL,['European'],[115082],GCST90092876
+Free cholesterol to total lipids ratio in medium LDL,['European'],[115082],GCST90092909
+Total lipid levels in medium LDL,['European'],[115082],GCST90092910
+Concentration of medium LDL particles,['European'],[115082],GCST90092911
+Cholesterol levels in small HDL,['European'],[115082],GCST90092944
+"Remnant cholesterol (non-HDL, non-LDL -cholesterol)",['European'],[115082],GCST90092943
+Phospholipid levels in small LDL,['European'],[115082],GCST90092964
+Concentration of small LDL particles,['European'],[115082],GCST90092963
+Free cholesterol to total lipids ratio in small LDL,['European'],[115082],GCST90092961
+Total lipid levels in small LDL,['European'],[115082],GCST90092962
+Total lipid levels in lipoprotein particles,['European'],[115082],GCST90092989
+Free cholesterol levels in very large HDL,['European'],[115082],GCST90093008
+Phospholipid levels in very large VLDL,['European'],[115082],GCST90093024
+Concentration of very large VLDL particles,['European'],[115082],GCST90093023
+Triglyceride levels in HDL,['European'],[115082],GCST90092829
+Phospholipid levels in large LDL,['European'],[115082],GCST90092864
+Phospholipids to total lipids ratio in large LDL,['European'],[115082],GCST90092865
+Concentration of large LDL particles,['European'],[115082],GCST90092863
+Cholesteryl ester levels in LDL,['European'],[115082],GCST90092884
+Free cholesterol levels in LDL,['European'],[115082],GCST90092885
+Total lipid levels in LDL,['European'],[115082],GCST90092886
+Phospholipid levels in medium VLDL,['European'],[115082],GCST90092924
+Phospholipids to total lipids ratio in medium VLDL,['European'],[115082],GCST90092925
+Concentration of medium VLDL particles,['European'],[115082],GCST90092923
+Phospholipid levels in small HDL,['European'],[115082],GCST90092952
+Phospholipids to total lipids ratio in small HDL,['European'],[115082],GCST90092953
+Triglyceride levels in small HDL,['European'],[115082],GCST90092954
+Triglycerides to total lipids ratio in small HDL,['European'],[115082],GCST90092955
+Triglycerides to total lipids ratio in small VLDL,['European'],[115082],GCST90092979
+Total lipid levels in VLDL,['European'],[115082],GCST90092999
+Free cholesterol levels in VLDL,['European'],[115082],GCST90092998
+Triglyceride levels in VLDL,['European'],[115082],GCST90093003
+Cholesterol levels in very large HDL,['European'],[115082],GCST90093004
+Free cholesterol levels in very large VLDL,['European'],[115082],GCST90093020
+Cholesteryl ester levels in IDL,['European'],[115082],GCST90092833
+Triglycerides to total lipids ratio in large HDL,['European'],[115082],GCST90092855
+Cholesterol levels in large LDL,['European'],[115082],GCST90092856
+Triglyceride levels in large HDL,['European'],[115082],GCST90092854
+Cholesterol to total lipids ratio in medium HDL,['European'],[115082],GCST90092893
+Cholesteryl ester levels in medium HDL,['European'],[115082],GCST90092894
+Cholesteryl esters to total lipids ratio in medium HDL,['European'],[115082],GCST90092895
+Free cholesterol levels in medium HDL,['European'],[115082],GCST90092896
+Phospholipid levels in medium LDL,['European'],[115082],GCST90092912
+Phospholipids to total lipids ratio in medium LDL,['European'],[115082],GCST90092913
+Triglyceride levels in medium LDL,['European'],[115082],GCST90092914
+Triglycerides to total lipids ratio in medium LDL,['European'],[115082],GCST90092915
+Cholesterol to total lipids ratio in small HDL,['European'],[115082],GCST90092945
+Cholesteryl ester levels in small HDL,['European'],[115082],GCST90092946
+Free cholesterol to total lipids ratio in small VLDL,['European'],[115082],GCST90092973
+Total lipid levels in small VLDL,['European'],[115082],GCST90092974
+Cholesteryl ester levels in VLDL,['European'],[115082],GCST90092997
+Cholesteryl ester levels in very large HDL,['European'],[115082],GCST90093006
+Total lipid levels in very large VLDL,['European'],[115082],GCST90093022
+Phospholipid levels in IDL,['European'],[115082],GCST90092839
+Phospholipids to total lipids ratio in IDL,['European'],[115082],GCST90092840
+Concentration of IDL particles,['European'],[115082],GCST90092838
+Cholesterol to total lipids ratio in large LDL,['European'],[115082],GCST90092857
+Cholesteryl ester levels in large LDL,['European'],[115082],GCST90092858
+Cholesteryl esters to total lipids ratio in large LDL,['European'],[115082],GCST90092859
+Free cholesterol levels in large LDL,['European'],[115082],GCST90092860
+Triglyceride levels in LDL,['European'],[115082],GCST90092890
+Average diameter for LDL particles,['European'],[115082],GCST90092889
+Cholesteryl esters to total lipids ratio in medium VLDL,['European'],[115082],GCST90092919
+Cholesteryl ester levels in medium VLDL,['European'],[115082],GCST90092918
+Cholesterol to total lipids ratio in medium VLDL,['European'],[115082],GCST90092917
+Free cholesterol levels in medium VLDL,['European'],[115082],GCST90092920
+Cholesterol levels in small LDL,['European'],[115082],GCST90092956
+Cholesterol to total lipids ratio in small LDL,['European'],[115082],GCST90092957
+Cholesteryl ester levels in small LDL,['European'],[115082],GCST90092958
+Phospholipid levels in VLDL,['European'],[115082],GCST90093001
+Average diameter for VLDL particles,['European'],[115082],GCST90093002
+Free cholesterol to total lipids ratio in large HDL,['European'],[115082],GCST90092849
+Cholesteryl esters to total lipids ratio in large HDL,['European'],[115082],GCST90092847
+Free cholesterol levels in large HDL,['European'],[115082],GCST90092848
+Triglyceride levels in large VLDL,['European'],[115082],GCST90092878
+Cholesterol levels in medium VLDL,['European'],[115082],GCST90092916
+Concentration of small HDL particles,['European'],[115082],GCST90092951
+Total lipid levels in small HDL,['European'],[115082],GCST90092950
+Cholesteryl esters to total lipids ratio in small VLDL,['European'],[115082],GCST90092971
+Free cholesterol levels in small VLDL,['European'],[115082],GCST90092972
+Concentration of VLDL particles,['European'],[115082],GCST90093000
+Cholesteryl ester levels in very large VLDL,['European'],[115082],GCST90093018
+Cholesteryl ester levels in large HDL,['European'],[115082],GCST90092846
+Free cholesterol to total lipids ratio in large LDL,['European'],[115082],GCST90092861
+Total lipid levels in large LDL,['European'],[115082],GCST90092862
+Phospholipid levels in LDL,['European'],[115082],GCST90092888
+Concentration of LDL particles,['European'],[115082],GCST90092887
+Triglycerides to total lipids ratio in medium HDL,['European'],[115082],GCST90092903
+Total cholesterol minus HDL-C levels,['European'],[115082],GCST90092930
+Cholesteryl esters to total lipids ratio in small LDL,['European'],[115082],GCST90092959
+Free cholesterol levels in small LDL,['European'],[115082],GCST90092960
+Cholesterol levels in very large VLDL,['European'],[115082],GCST90093016
+Cholesterol to total lipids ratio in large HDL,['European'],[115082],GCST90092845
+Triglycerides to total lipids ratio in large LDL,['European'],[115082],GCST90092867
+Triglyceride levels in large LDL,['European'],[115082],GCST90092866
+Free cholesterol to total lipids ratio in medium HDL,['European'],[115082],GCST90092897
+Free cholesterol to total lipids ratio in medium VLDL,['European'],[115082],GCST90092921
+Total lipid levels in medium VLDL,['European'],[115082],GCST90092922
+Phospholipids to total lipids ratio in small LDL,['European'],[115082],GCST90092965
+Triglyceride levels in small LDL,['European'],[115082],GCST90092966
+Triglyceride levels in very large HDL,['European'],[115082],GCST90093014
+Free cholesterol to total lipids ratio in very small VLDL,['European'],[115082],GCST90093033
+Total lipid levels in very small VLDL,['European'],[115082],GCST90093034
+Concentration of very small VLDL particles,['European'],[115082],GCST90093035
+Cholesteryl ester levels in chylomicrons and extremely large VLDL,['European'],[115082],GCST90093042
+Glycoprotein acetyls levels,['European'],[115082],GCST90092821
+Total free cholesterol levels,['European'],[115082],GCST90092988
+Total lipid levels in chylomicrons and extremely large VLDL,['European'],[115082],GCST90093046
+Free cholesterol levels in chylomicrons and extremely large VLDL,['European'],[115082],GCST90093044
+Apolipoprotein B levels,['European'],[115082],GCST90092809
+Cholesterol levels in medium HDL,['European'],[115082],GCST90092892
+LDL cholesterol levels,['European'],[115082],GCST90092883
+Phospholipid levels in very small VLDL,['European'],[115082],GCST90093036
+Phospholipids to total lipids ratio in very small VLDL,['European'],[115082],GCST90093037
+Phospholipid levels in chylomicrons and extremely large VLDL,['European'],[115082],GCST90093048
+Concentration of chylomicrons and extremely large VLDL particles,['European'],[115082],GCST90093047
+Triglyceride levels in very small VLDL,['European'],[115082],GCST90093038
+Triglycerides to total lipids ratio in very small VLDL,['European'],[115082],GCST90093039
+Cholesterol levels in chylomicrons and extremely large VLDL,['European'],[115082],GCST90093040
+Triglyceride levels in chylomicrons and extremely large VLDL,['European'],[115082],GCST90093050
+Clinical LDL cholesterol levels,['European'],[115082],GCST90092814
+Cholesteryl esters to total lipids ratio in very small VLDL,['European'],[115082],GCST90093031
+Total cholesterol levels,['European'],[115082],GCST90092985
+Free cholesterol levels in very small VLDL,['European'],[115082],GCST90093032
+Total esterified cholesterol levels,['European'],[115082],GCST90092986
+HDL cholesterol levels,['European'],[115082],GCST90092822
+Cholesterol to total lipids ratio in very small VLDL,['European'],[115082],GCST90093029
+Cholesteryl ester levels in very small VLDL,['European'],[115082],GCST90093030
+Acetoacetate levels,['European'],[115079],GCST90092804
+Acetone levels,['European'],[115079],GCST90092805
+Isoleucine levels,['European'],[115079],GCST90092843
+Alanine levels,['European'],[115078],GCST90092806
+Leucine levels,['European'],[115078],GCST90092891
+Cholesteryl esters to total lipids ratio in large VLDL,['European'],[115071],GCST90092871
+Free cholesterol to total lipids ratio in large VLDL,['European'],[115071],GCST90092873
+Cholesterol to total lipids ratio in large VLDL,['European'],[115071],GCST90092869
+Triglycerides to total lipids ratio in large VLDL,['European'],[115071],GCST90092879
+Phospholipids to total lipids ratio in large VLDL,['European'],[115071],GCST90092877
+Citrate levels,['European'],[115068],GCST90092813
+Albumin levels,['European'],[115064],GCST90092807
+Phospholipids to total lipids ratio in very large HDL,['European'],[115056],GCST90093013
+Free cholesterol to total lipids ratio in very large HDL,['European'],[115056],GCST90093009
+Cholesteryl esters to total lipids ratio in very large HDL,['European'],[115056],GCST90093007
+Cholesterol to total lipids ratio in very large HDL,['European'],[115056],GCST90093005
+Triglycerides to total lipids ratio in very large HDL,['European'],[115056],GCST90093015
+Valine levels,['European'],[115052],GCST90092995
+Total concentration of branched-chain amino acids (leucine + isoleucine + valine),['European'],[115051],GCST90092984
+Acetate levels,['European'],[115050],GCST90092803
+Phenylalanine levels,['European'],[115030],GCST90092936
+Omega-3 fatty acid levels,['European'],[115006],GCST90092931
+Ratio of omega-3 fatty acids to total fatty acids,['European'],[115006],GCST90092932
+Omega-6 fatty acid levels,['European'],[115006],GCST90092933
+Ratio of omega-6 fatty acids to omega-3 fatty acids,['European'],[115006],GCST90092934
+Ratio of omega-6 fatty acids to total fatty acids,['European'],[115006],GCST90092935
+Monounsaturated fatty acid levels,['European'],[115006],GCST90092928
+Degree of unsaturation,['European'],[115006],GCST90092994
+Total cholines levels,['European'],[115006],GCST90092812
+Ratio of polyunsaturated fatty acids to total fatty acids,['European'],[115006],GCST90092941
+Ratio of polyunsaturated fatty acids to monounsaturated fatty acids,['European'],[115006],GCST90092940
+Total fatty acid levels,['European'],[115006],GCST90092987
+Ratio of triglycerides to phosphoglycerides,['European'],[115006],GCST90092983
+Ratio of docosahexaenoic acid to total fatty acid levels,['European'],[115006],GCST90092817
+Ratio of linoleic acid to total fatty acids,['European'],[115006],GCST90092881
+Saturated fatty acid levels,['European'],[115006],GCST90092980
+Sphingomyelin levels,['European'],[115006],GCST90092982
+Ratio of saturated fatty acids to total fatty acids,['European'],[115006],GCST90092981
+Ratio of monounsaturated fatty acids to total fatty acids,['European'],[115006],GCST90092929
+Phosphoglycerides levels,['European'],[115006],GCST90092938
+Phosphatidylcholine levels,['European'],[115006],GCST90092937
+Docosahexaenoic acid levels,['European'],[115006],GCST90092816
+Polyunsaturated fatty acid levels,['European'],[115006],GCST90092939
+Linoleic acid levels,['European'],[115006],GCST90092880
+Glycine levels,['European'],[114978],GCST90092820
+Tyrosine levels,['European'],[114913],GCST90092993
+Histidine levels,['European'],[114897],GCST90092830
+Glucose levels,['European'],[114870],GCST90092819
+Lactate levels,['European'],[114806],GCST90092882
+Glutamine levels,['European'],[114751],GCST90092818
+Pyruvate levels,['European'],[114749],GCST90092942
+Triglycerides to total lipids ratio in very large VLDL,['European'],[114160],GCST90093027
+Phospholipids to total lipids ratio in very large VLDL,['European'],[114160],GCST90093025
+Free cholesterol to total lipids ratio in very large VLDL,['European'],[114160],GCST90093021
+Cholesteryl esters to total lipids ratio in very large VLDL,['European'],[114160],GCST90093019
+Cholesterol to total lipids ratio in very large VLDL,['European'],[114160],GCST90093017
+3-Hydroxybutyrate levels,['European'],[113594],GCST90092811
+Cholesterol to total lipids ratio in chylomicrons and extremely large VLDL,['European'],[111638],GCST90093041
+Free cholesterol to total lipids ratio in chylomicrons and extremely large VLDL,['European'],[111638],GCST90093045
+Phospholipids to total lipids ratio in chylomicrons and extremely large VLDL,['European'],[111638],GCST90093049
+Triglycerides to total lipids ratio in chylomicrons and extremely large VLDL,['European'],[111638],GCST90093051
+Cholesteryl esters to total lipids ratio in chylomicrons and extremely large VLDL,['European'],[111638],GCST90093043
+Reaction time,['European'],[111483],GCST003499
+Educational attainment,['European'],[111114],GCST003496
+Glomerular filtration rate (creatinine),['European'],[110517],GCST004292
+Creatinine levels,['European'],[110051],GCST90092815
+Educational attainment,['European'],[106736],GCST002598
+Depression,"['European', 'European', 'European']","[105739, 16471, 58835]",GCST003769
+"Cholesterol, total",['European'],[100184],GCST000760
+HDL cholesterol,['European'],[99900],GCST000755
+Triglycerides,['European'],[96598],GCST000758
+LDL cholesterol,['European'],[95454],GCST000759
+LDL cholesterol,['European'],[94595],GCST002222
+HDL cholesterol,['European'],[94595],GCST002223
+Triglycerides,['European'],[94595],GCST002216
+"Cholesterol, total",['European'],[94595],GCST002221
+Accelerometer-based physical activity measurement (average acceleration),['European'],[91084],GCST006099
+Physical activity,['European'],[89683],GCST90093322
+Physical activity (Total log acceleration),['European'],[88411],GCST90061408
+Physical activity (Total log acceleration 12am-2am),['European'],[88411],GCST90061409
+Physical activity (Total log acceleration 2am-4am),['European'],[88411],GCST90061410
+Physical activity (Total log acceleration 6am-8am),['European'],[88411],GCST90061412
+Physical activity (Total log acceleration 8am-10am),['European'],[88411],GCST90061413
+Physical activity (Total log acceleration 6pm-8pm),['European'],[88411],GCST90061418
+Physical activity (Total log acceleration 8pm-10pm),['European'],[88411],GCST90061419
+Physical activity (Total log acceleration 10pm-12am),['European'],[88411],GCST90061420
+Light-intensity physical activity duration,['European'],[88411],GCST90061421
+Moderate to vigorous physical activity duration,['European'],[88411],GCST90061422
+Physical activity (Principal component 2),['European'],[88411],GCST90061423
+Active to sedentary transition probability,['European'],[88411],GCST90061429
+Average log acceleration during the five least active hours of the day,['European'],[88411],GCST90061431
+Physical activity (Relative amplitude),['European'],[88411],GCST90061432
+Mid-point of the five least active hours of the day,['European'],[88411],GCST90061434
+VLDL cholesterol levels (UKB data field 23403),['European'],[88329],GCST90269500
+Clinical LDL cholesterol levels (UKB data field 23404),['European'],[88329],GCST90269501
+LDL cholesterol levels (UKB data field 23405),['European'],[88329],GCST90269502
+HDL cholesterol levels (UKB data field 23406),['European'],[88329],GCST90269503
+"Remnant cholesterol (non-HDL, non-LDL -cholesterol) levels (UKB data field 23402)",['European'],[88329],GCST90269499
+Phospholipids in VLDL (UKB data field 23412),['European'],[88329],GCST90269509
+Phospholipids in LDL (UKB data field 23413),['European'],[88329],GCST90269510
+Cholesteryl esters in HDL (UKB data field 23418),['European'],[88329],GCST90269515
+Total free cholesterol levels (UKB data field 23419),['European'],[88329],GCST90269516
+Free cholesterol in VLDL (UKB data field 23420),['European'],[88329],GCST90269517
+Cholesteryl esters in LDL (UKB data field 23417),['European'],[88329],GCST90269514
+Free cholesterol in HDL (UKB data field 23422),['European'],[88329],GCST90269519
+Total lipids in lipoprotein particles (UKB data field 23423),['European'],[88329],GCST90269520
+Total lipids in VLDL (UKB data field 23424),['European'],[88329],GCST90269521
+Total lipids in HDL (UKB data field 23426),['European'],[88329],GCST90269523
+Concentration of HDL particles (UKB data field 23430),['European'],[88329],GCST90269527
+Average diameter for VLDL particles (UKB data field 23431),['European'],[88329],GCST90269528
+Concentration of LDL particles (UKB data field 23429),['European'],[88329],GCST90269526
+Apolipoprotein A1 levels (UKB data field 23440),['European'],[88329],GCST90269537
+Apolipoprotein B to apolipoprotein A1 ratio (UKB data field 23441),['European'],[88329],GCST90269538
+Apolipoprotein B levels (UKB data field 23439),['European'],[88329],GCST90269536
+Total cholesterol minus HDL-C levels (UKB data field 23401),['European'],[88329],GCST90269498
+Total cholesterol levels (UKB data field 23400),['European'],[88329],GCST90269497
+Total triglycerides levels (UKB data field 23407),['European'],[88329],GCST90269504
+Triglycerides in VLDL (UKB data field 23408),['European'],[88329],GCST90269505
+Triglycerides in LDL (UKB data field 23409),['European'],[88329],GCST90269506
+Triglycerides in HDL (UKB data field 23410),['European'],[88329],GCST90269507
+Total phospholipids in lipoprotein particles (UKB data field 23411),['European'],[88329],GCST90269508
+Phospholipids in HDL (UKB data field 23414),['European'],[88329],GCST90269511
+Total lipids in LDL (UKB data field 23425),['European'],[88329],GCST90269522
+Concentration of VLDL particles (UKB data field 23428),['European'],[88329],GCST90269525
+Total concentration of lipoprotein particles (UKB data field 23427),['European'],[88329],GCST90269524
+Cholesteryl esters to total lipids in large HDL percentage (UKB data field 23636),['European'],[88329],GCST90269733
+Cholesterol to total lipids in large HDL percentage (UKB data field 23635),['European'],[88329],GCST90269732
+Phospholipids to total lipids in large HDL percentage (UKB data field 23634),['European'],[88329],GCST90269731
+Free cholesterol to total lipids in large HDL percentage (UKB data field 23637),['European'],[88329],GCST90269734
+Triglycerides to total lipids in large HDL percentage (UKB data field 23638),['European'],[88329],GCST90269735
+Phospholipids to total lipids in medium HDL percentage (UKB data field 23639),['European'],[88329],GCST90269736
+Cholesteryl esters to total lipids in medium HDL percentage (UKB data field 23641),['European'],[88329],GCST90269738
+Free cholesterol to total lipids in medium HDL percentage (UKB data field 23642),['European'],[88329],GCST90269739
+Cholesterol to total lipids in medium HDL percentage (UKB data field 23640),['European'],[88329],GCST90269737
+Triglycerides to total lipids in medium HDL percentage (UKB data field 23643),['European'],[88329],GCST90269740
+Cholesteryl esters to total lipids in small HDL percentage (UKB data field 23646),['European'],[88329],GCST90269743
+Free cholesterol to total lipids in small HDL percentage (UKB data field 23647),['European'],[88329],GCST90269744
+Cholesterol to total lipids in small HDL percentage (UKB data field 23645),['European'],[88329],GCST90269742
+Phospholipids to total lipids in small HDL percentage (UKB data field 23644),['European'],[88329],GCST90269741
+Triglycerides to total lipids in small HDL percentage (UKB data field 23648),['European'],[88329],GCST90269745
+Total esterified cholesterol levels (UKB data field 23415),['European'],[88329],GCST90269512
+Cholesteryl esters in VLDL (UKB data field 23416),['European'],[88329],GCST90269513
+Free cholesterol in LDL (UKB data field 23421),['European'],[88329],GCST90269518
+Average diameter for LDL particles (UKB data field 23432),['European'],[88329],GCST90269529
+Average diameter for HDL particles (UKB data field 23433),['European'],[88329],GCST90269530
+Concentration of chylomicrons and extremely large VLDL particles (UKB data field 23481),['European'],[88329],GCST90269578
+Total lipids in chylomicrons and extremely large VLDL (UKB data field 23482),['European'],[88329],GCST90269579
+Glycoprotein acetyls levels (UKB data field 23480),['European'],[88329],GCST90269577
+Triglycerides in chylomicrons and extremely large VLDL (UKB data field 23487),['European'],[88329],GCST90269584
+Concentration of very large VLDL particles (UKB data field 23488),['European'],[88329],GCST90269585
+Total lipids in very large VLDL (UKB data field 23489),['European'],[88329],GCST90269586
+Free cholesterol in chylomicrons and extremely large VLDL (UKB data field 23486),['European'],[88329],GCST90269583
+Cholesteryl esters in chylomicrons and extremely large VLDL (UKB data field 23485),['European'],[88329],GCST90269582
+Phospholipids in large VLDL (UKB data field 23497),['European'],[88329],GCST90269594
+Cholesterol in large VLDL (UKB data field 23498),['European'],[88329],GCST90269595
+Cholesteryl esters in large VLDL (UKB data field 23499),['European'],[88329],GCST90269596
+Free cholesterol in large VLDL (UKB data field 23500),['European'],[88329],GCST90269597
+Total lipids in large VLDL (UKB data field 23496),['European'],[88329],GCST90269593
+Total lipids in medium VLDL (UKB data field 23503),['European'],[88329],GCST90269600
+Concentration of medium VLDL particles (UKB data field 23502),['European'],[88329],GCST90269599
+Triglycerides in large VLDL (UKB data field 23501),['European'],[88329],GCST90269598
+Phospholipids in medium VLDL (UKB data field 23504),['European'],[88329],GCST90269601
+Cholesterol in chylomicrons and extremely large VLDL (UKB data field 23484),['European'],[88329],GCST90269581
+Phospholipids in chylomicrons and extremely large VLDL (UKB data field 23483),['European'],[88329],GCST90269580
+Phospholipids in very large VLDL (UKB data field 23490),['European'],[88329],GCST90269587
+Cholesterol in very large VLDL (UKB data field 23491),['European'],[88329],GCST90269588
+Cholesteryl esters in very large VLDL (UKB data field 23492),['European'],[88329],GCST90269589
+Free cholesterol in very large VLDL (UKB data field 23493),['European'],[88329],GCST90269590
+Triglycerides in very large VLDL (UKB data field 23494),['European'],[88329],GCST90269591
+Concentration of large VLDL particles (UKB data field 23495),['European'],[88329],GCST90269592
+Cholesteryl esters in medium VLDL (UKB data field 23506),['European'],[88329],GCST90269603
+Free cholesterol in medium VLDL (UKB data field 23507),['European'],[88329],GCST90269604
+Cholesterol in medium VLDL (UKB data field 23505),['European'],[88329],GCST90269602
+Triglycerides in large LDL (UKB data field 23536),['European'],[88329],GCST90269633
+Concentration of medium LDL particles (UKB data field 23537),['European'],[88329],GCST90269634
+Cholesteryl esters in large LDL (UKB data field 23534),['European'],[88329],GCST90269631
+Free cholesterol in large LDL (UKB data field 23535),['European'],[88329],GCST90269632
+Cholesterol in large LDL (UKB data field 23533),['European'],[88329],GCST90269630
+Phospholipids in large LDL (UKB data field 23532),['European'],[88329],GCST90269629
+Triglycerides in small LDL (UKB data field 23550),['European'],[88329],GCST90269647
+Concentration of very large HDL particles (UKB data field 23551),['European'],[88329],GCST90269648
+Cholesteryl esters in small LDL (UKB data field 23548),['European'],[88329],GCST90269645
+Free cholesterol in small LDL (UKB data field 23549),['European'],[88329],GCST90269646
+Cholesterol in small LDL (UKB data field 23547),['European'],[88329],GCST90269644
+Phospholipids in small LDL (UKB data field 23546),['European'],[88329],GCST90269643
+Concentration of small VLDL particles (UKB data field 23509),['European'],[88329],GCST90269606
+Total lipids in small VLDL (UKB data field 23510),['European'],[88329],GCST90269607
+Triglycerides in medium VLDL (UKB data field 23508),['European'],[88329],GCST90269605
+Phospholipids in small VLDL (UKB data field 23511),['European'],[88329],GCST90269608
+Cholesterol in small VLDL (UKB data field 23512),['European'],[88329],GCST90269609
+Cholesteryl esters in small VLDL (UKB data field 23513),['European'],[88329],GCST90269610
+Free cholesterol in small VLDL (UKB data field 23514),['European'],[88329],GCST90269611
+Concentration of very small VLDL particles (UKB data field 23516),['European'],[88329],GCST90269613
+Total lipids in very small VLDL (UKB data field 23517),['European'],[88329],GCST90269614
+Triglycerides in small VLDL (UKB data field 23515),['European'],[88329],GCST90269612
+Phospholipids in very small VLDL (UKB data field 23518),['European'],[88329],GCST90269615
+Free cholesterol in very small VLDL (UKB data field 23521),['European'],[88329],GCST90269618
+Triglycerides in very small VLDL (UKB data field 23522),['European'],[88329],GCST90269619
+Concentration of IDL particles (UKB data field 23523),['European'],[88329],GCST90269620
+Cholesterol in very small VLDL (UKB data field 23519),['European'],[88329],GCST90269616
+Cholesteryl esters in very small VLDL (UKB data field 23520),['European'],[88329],GCST90269617
+Cholesterol in IDL (UKB data field 23526),['European'],[88329],GCST90269623
+Cholesteryl esters in IDL (UKB data field 23527),['European'],[88329],GCST90269624
+Total lipids in IDL (UKB data field 23524),['European'],[88329],GCST90269621
+Phospholipids in IDL (UKB data field 23525),['European'],[88329],GCST90269622
+Triglycerides in IDL (UKB data field 23529),['European'],[88329],GCST90269626
+Concentration of large LDL particles (UKB data field 23530),['European'],[88329],GCST90269627
+Free cholesterol in IDL (UKB data field 23528),['European'],[88329],GCST90269625
+Total lipids in large LDL (UKB data field 23531),['European'],[88329],GCST90269628
+Total lipids in medium LDL (UKB data field 23538),['European'],[88329],GCST90269635
+Cholesterol in medium LDL (UKB data field 23540),['European'],[88329],GCST90269637
+Cholesteryl esters in medium LDL (UKB data field 23541),['European'],[88329],GCST90269638
+Phospholipids in medium LDL (UKB data field 23539),['European'],[88329],GCST90269636
+Concentration of small LDL particles (UKB data field 23544),['European'],[88329],GCST90269641
+Total lipids in small LDL (UKB data field 23545),['European'],[88329],GCST90269642
+Triglycerides in medium LDL (UKB data field 23543),['European'],[88329],GCST90269640
+Free cholesterol in medium LDL (UKB data field 23542),['European'],[88329],GCST90269639
+Total lipids in very large HDL (UKB data field 23552),['European'],[88329],GCST90269649
+Phospholipids in very large HDL (UKB data field 23553),['European'],[88329],GCST90269650
+Cholesterol in very large HDL (UKB data field 23554),['European'],[88329],GCST90269651
+Cholesteryl esters in very large HDL (UKB data field 23555),['European'],[88329],GCST90269652
+Total lipids in large HDL (UKB data field 23559),['European'],[88329],GCST90269656
+Concentration of large HDL particles (UKB data field 23558),['European'],[88329],GCST90269655
+Phospholipids in large HDL (UKB data field 23560),['European'],[88329],GCST90269657
+Cholesterol in large HDL (UKB data field 23561),['European'],[88329],GCST90269658
+Free cholesterol in large HDL (UKB data field 23563),['European'],[88329],GCST90269660
+Concentration of medium HDL particles (UKB data field 23565),['European'],[88329],GCST90269662
+Total lipids in medium HDL (UKB data field 23566),['European'],[88329],GCST90269663
+Phospholipids in medium HDL (UKB data field 23567),['European'],[88329],GCST90269664
+Triglycerides in small HDL (UKB data field 23578),['European'],[88329],GCST90269675
+Cholesteryl esters to total lipids in medium VLDL percentage (UKB data field 23596),['European'],[88329],GCST90269693
+Free cholesterol to total lipids in medium VLDL percentage (UKB data field 23597),['European'],[88329],GCST90269694
+Cholesterol to total lipids in medium VLDL percentage (UKB data field 23595),['European'],[88329],GCST90269692
+Phospholipids to total lipids in medium VLDL percentage (UKB data field 23594),['European'],[88329],GCST90269691
+Triglycerides to total lipids in small VLDL percentage (UKB data field 23603),['European'],[88329],GCST90269700
+Phospholipids to total lipids in very small VLDL percentage (UKB data field 23604),['European'],[88329],GCST90269701
+Cholesteryl esters to total lipids in small VLDL percentage (UKB data field 23601),['European'],[88329],GCST90269698
+Free cholesterol to total lipids in small VLDL percentage (UKB data field 23602),['European'],[88329],GCST90269699
+Cholesterol to total lipids in very small VLDL percentage (UKB data field 23605),['European'],[88329],GCST90269702
+Free cholesterol to total lipids in IDL percentage (UKB data field 23612),['European'],[88329],GCST90269709
+Triglycerides to total lipids in IDL percentage (UKB data field 23613),['European'],[88329],GCST90269710
+Cholesteryl esters to total lipids in IDL percentage (UKB data field 23611),['European'],[88329],GCST90269708
+Phospholipids to total lipids in IDL percentage (UKB data field 23609),['European'],[88329],GCST90269706
+Cholesterol to total lipids in IDL percentage (UKB data field 23610),['European'],[88329],GCST90269707
+Phospholipids to total lipids in large LDL percentage (UKB data field 23614),['European'],[88329],GCST90269711
+Cholesteryl esters to total lipids in large LDL percentage (UKB data field 23616),['European'],[88329],GCST90269713
+Free cholesterol to total lipids in large LDL percentage (UKB data field 23617),['European'],[88329],GCST90269714
+Cholesterol to total lipids in large LDL percentage (UKB data field 23615),['European'],[88329],GCST90269712
+Cholesteryl esters to total lipids in medium LDL percentage (UKB data field 23621),['European'],[88329],GCST90269718
+Free cholesterol to total lipids in medium LDL percentage (UKB data field 23622),['European'],[88329],GCST90269719
+Triglycerides to total lipids in medium LDL percentage (UKB data field 23623),['European'],[88329],GCST90269720
+Phospholipids to total lipids in small LDL percentage (UKB data field 23624),['European'],[88329],GCST90269721
+Triglycerides in very large HDL (UKB data field 23557),['European'],[88329],GCST90269654
+Free cholesterol in very large HDL (UKB data field 23556),['European'],[88329],GCST90269653
+Cholesteryl esters in large HDL (UKB data field 23562),['European'],[88329],GCST90269659
+Cholesteryl esters in medium HDL (UKB data field 23569),['European'],[88329],GCST90269666
+Free cholesterol in medium HDL (UKB data field 23570),['European'],[88329],GCST90269667
+Cholesterol in medium HDL (UKB data field 23568),['European'],[88329],GCST90269665
+Triglycerides in medium HDL (UKB data field 23571),['European'],[88329],GCST90269668
+Concentration of small HDL particles (UKB data field 23572),['European'],[88329],GCST90269669
+Total lipids in small HDL (UKB data field 23573),['European'],[88329],GCST90269670
+Phospholipids in small HDL (UKB data field 23574),['European'],[88329],GCST90269671
+Cholesterol in small HDL (UKB data field 23575),['European'],[88329],GCST90269672
+Cholesteryl esters in small HDL (UKB data field 23576),['European'],[88329],GCST90269673
+Free cholesterol in small HDL (UKB data field 23577),['European'],[88329],GCST90269674
+Phospholipids to total lipids in small VLDL percentage (UKB data field 23599),['European'],[88329],GCST90269696
+Cholesterol to total lipids in small VLDL percentage (UKB data field 23600),['European'],[88329],GCST90269697
+Triglycerides to total lipids in medium VLDL percentage (UKB data field 23598),['European'],[88329],GCST90269695
+Free cholesterol to total lipids in very small VLDL percentage (UKB data field 23607),['European'],[88329],GCST90269704
+Triglycerides to total lipids in very small VLDL percentage (UKB data field 23608),['European'],[88329],GCST90269705
+Cholesteryl esters to total lipids in very small VLDL percentage (UKB data field 23606),['European'],[88329],GCST90269703
+Cholesterol to total lipids in medium LDL percentage (UKB data field 23620),['European'],[88329],GCST90269717
+Triglycerides to total lipids in large LDL percentage (UKB data field 23618),['European'],[88329],GCST90269715
+Phospholipids to total lipids in medium LDL percentage (UKB data field 23619),['European'],[88329],GCST90269716
+Cholesterol to total lipids in small LDL percentage (UKB data field 23625),['European'],[88329],GCST90269722
+Cholesteryl esters to total lipids in small LDL percentage (UKB data field 23626),['European'],[88329],GCST90269723
+Free cholesterol to total lipids in small LDL percentage (UKB data field 23627),['European'],[88329],GCST90269724
+Triglycerides to total lipids in small LDL percentage (UKB data field 23628),['European'],[88329],GCST90269725
+Isoleucine levels (UKB data field 23465),['European'],[88326],GCST90269562
+Leucine levels (UKB data field 23466),['European'],[88326],GCST90269563
+Acetoacetate levels (UKB data field 23476),['European'],[88326],GCST90269573
+Acetone levels (UKB data field 23477),['European'],[88326],GCST90269574
+Alanine levels (UKB data field 23460),['European'],[88325],GCST90269557
+Cholesterol to total lipids in large VLDL percentage (UKB data field 23590),['European'],[88321],GCST90269687
+Phospholipids to total lipids in large VLDL percentage (UKB data field 23589),['European'],[88321],GCST90269686
+Free cholesterol to total lipids in large VLDL percentage (UKB data field 23592),['European'],[88321],GCST90269689
+Triglycerides to total lipids in large VLDL percentage (UKB data field 23593),['European'],[88321],GCST90269690
+Cholesteryl esters to total lipids in large VLDL percentage (UKB data field 23591),['European'],[88321],GCST90269688
+Citrate levels (UKB data field 23473),['European'],[88318],GCST90269570
+Albumin levels (UKB data field 23479),['European'],[88315],GCST90269576
+Phospholipids to total lipids in very large HDL percentage (UKB data field 23629),['European'],[88307],GCST90269726
+Cholesterol to total lipids in very large HDL percentage (UKB data field 23630),['European'],[88307],GCST90269727
+Cholesteryl esters to total lipids in very large HDL percentage (UKB data field 23631),['European'],[88307],GCST90269728
+Free cholesterol to total lipids in very large HDL percentage (UKB data field 23632),['European'],[88307],GCST90269729
+Triglycerides to total lipids in very large HDL percentage (UKB data field 23633),['European'],[88307],GCST90269730
+Acetate levels (UKB data field 23475),['European'],[88306],GCST90269572
+Valine levels (UKB data field 23467),['European'],[88303],GCST90269564
+Total concentration of branched-chain amino acids (leucine + isoleucine + valine) (UKB data field 23464),['European'],[88303],GCST90269561
+Phenylalanine levels (UKB data field 23468),['European'],[88296],GCST90269565
+Docosahexaenoic acid levels (UKB data field 23450),['European'],[88268],GCST90269547
+Omega-3 fatty acids to total fatty acids percentage (UKB data field 23451),['European'],[88268],GCST90269548
+Polyunsaturated fatty acids to total fatty acids percentage (UKB data field 23453),['European'],[88268],GCST90269550
+Monounsaturated fatty acids to total fatty acids percentage (UKB data field 23454),['European'],[88268],GCST90269551
+Omega-6 fatty acids to total fatty acids percentage (UKB data field 23452),['European'],[88268],GCST90269549
+Linoleic acid levels (UKB data field 23449),['European'],[88268],GCST90269546
+Phosphatidylcholines levels (UKB data field 23437),['European'],[88268],GCST90269534
+Sphingomyelins levels (UKB data field 23438),['European'],[88268],GCST90269535
+Triglycerides to phosphoglycerides ratio (UKB data field 23435),['European'],[88268],GCST90269532
+Total cholines levels (UKB data field 23436),['European'],[88268],GCST90269533
+Total fatty acids levels (UKB data field 23442),['European'],[88268],GCST90269539
+Degree of unsaturation (UKB data field 23443),['European'],[88268],GCST90269540
+Polyunsaturated fatty acids levels (UKB data field 23446),['European'],[88268],GCST90269543
+Monounsaturated fatty acids levels (UKB data field 23447),['European'],[88268],GCST90269544
+Saturated fatty acids levels (UKB data field 23448),['European'],[88268],GCST90269545
+Omega-6 fatty acids to omega-3 fatty acids ratio (UKB data field 23459),['European'],[88268],GCST90269556
+Phosphoglycerides levels (UKB data field 23434),['European'],[88268],GCST90269531
+Omega-3 fatty acids levels (UKB data field 23444),['European'],[88268],GCST90269541
+Omega-6 fatty acids levels (UKB data field 23445),['European'],[88268],GCST90269542
+Saturated fatty acids to total fatty acids percentage (UKB data field 23455),['European'],[88268],GCST90269552
+Linoleic acid to total fatty acids percentage (UKB data field 23456),['European'],[88268],GCST90269553
+Polyunsaturated fatty acids to monounsaturated fatty acids ratio (UKB data field 23458),['European'],[88268],GCST90269555
+Docosahexaenoic acid to total fatty acids percentage (UKB data field 23457),['European'],[88268],GCST90269554
+Glycine levels (UKB data field 23462),['European'],[88258],GCST90269559
+Tyrosine levels (UKB data field 23469),['European'],[88207],GCST90269566
+Histidine levels (UKB data field 23463),['European'],[88197],GCST90269560
+Glucose levels (UKB data field 23470),['European'],[88174],GCST90269567
+Lactate levels (UKB data field 23471),['European'],[88119],GCST90269568
+Glutamine levels (UKB data field 23461),['European'],[88070],GCST90269558
+Pyruvate levels (UKB data field 23472),['European'],[88069],GCST90269569
+Phospholipids to total lipids in very large VLDL percentage (UKB data field 23584),['European'],[87620],GCST90269681
+Cholesterol to total lipids in very large VLDL percentage (UKB data field 23585),['European'],[87620],GCST90269682
+Triglycerides to total lipids in very large VLDL percentage (UKB data field 23588),['European'],[87620],GCST90269685
+Cholesteryl esters to total lipids in very large VLDL percentage (UKB data field 23586),['European'],[87620],GCST90269683
+Free cholesterol to total lipids in very large VLDL percentage (UKB data field 23587),['European'],[87620],GCST90269684
+3-hydroxybutyrate levels (UKB data field 23474),['European'],[87151],GCST90269571
+Cholesteryl esters to total lipids in chylomicrons and extremely large VLDL percentage (UKB data field 23581),['European'],[85701],GCST90269678
+Free cholesterol to total lipids in chylomicrons and extremely large VLDL percentage (UKB data field 23582),['European'],[85701],GCST90269679
+Triglycerides to total lipids in chylomicrons and extremely large VLDL percentage (UKB data field 23583),['European'],[85701],GCST90269680
+Phospholipids to total lipids in chylomicrons and extremely large VLDL percentage (UKB data field 23579),['European'],[85701],GCST90269676
+Cholesterol to total lipids in chylomicrons and extremely large VLDL percentage (UKB data field 23580),['European'],[85701],GCST90269677
+Creatinine levels (UKB data field 23478),['European'],[84405],GCST90269575
+Glycine levels,['European'],[80003],GCST007638
+Vitamin D levels,['European'],[79366],GCST005367
+Cardiorespiratory fitness (vo2 max),['European'],[70783],GCST90093316
+Cardiorespiratory fitness slope,['European'],[70783],GCST90093319
+Two-hour glucose,['European'],[63396],GCST90002227
+Neuroticism,"['Unknown', 'Unknown', 'Unknown', 'Unknown', 'European']","[627, 2296, 1650, 909, 58179]",GCST002920
+Fasting blood glucose,['European'],[58074],GCST005186
+Total body bone mineral density,"['European', 'Unknown', 'Unknown']","[56284, 1333, 9328]",GCST005348
+Retinal arteriolar tortuosity,['European'],[52798],GCST90270397
+Retinal venular width,['European'],[52798],GCST90270400
+Retinal arteriolar width,['European'],[52798],GCST90270398
+Retinal venular tortuosity,['European'],[52798],GCST90270399
+Fasting blood insulin,['European'],[51750],GCST005185
+circulating leptin levels,['European'],[49909],GCST90007316
+circulating leptin levels,['European'],[49909],GCST90007310
+circulating leptin levels adjusted for BMI,['European'],[49830],GCST90007322
+circulating leptin levels adjusted for BMI,['European'],[49830],GCST90007328
+Fasting blood glucose,['European'],[46186],GCST000568
+Heart rate variability (corrected standard deviation of normal-to-normal intervals),['European'],[46075],GCST90281266
+Heart rate variability (corrected root mean square of successive differences),['European'],[46075],GCST90281264
+Heart rate variability (root mean square of successive differences),['European'],[46075],GCST90281263
+Heart rate variability (standard deviation of normal-to-normal intervals),['European'],[46075],GCST90281265
+Birth weight,['European'],[42212],GCST90000030
+Childhood body mass index,['European'],[39620],GCST90002409
+Adiponectin levels,['European'],[38609],GCST90293086
+Fasting blood insulin,['European'],[38238],GCST000571
+Homeostasis model assessment of insulin resistance,['European'],[37037],GCST005179
+Homeostasis model assessment of beta-cell function,['European'],[36466],GCST005180
+Verbal-numerical reasoning,['European'],[36035],GCST003498
+Right ventricular end diastolic volume,['European'],[35941],GCST90268116
+Right ventricular stroke volume,['European'],[35932],GCST90268122
+Right ventricular end systolic volume,['European'],[35928],GCST90268118
+Right ventricular peak ejection rate,['European'],[35928],GCST90268120
+Right ventricular peak atrial filling rate,['European'],[35899],GCST90268119
+Right ventricular ejection fraction,['European'],[35875],GCST90268117
+Spleen iron concentration,['European'],[35324],GCST90101831
+DNA methylation-estimated granulocyte proportions,"['European', 'Unknown']","[34470, 6152]",GCST90014299
+DNA methylation-estimated granulocyte proportions,['European'],[34470],GCST90014287
+DNA methylation GrimAge acceleration,"['European', 'Unknown']","[34467, 6148]",GCST90014300
+DNA methylation GrimAge acceleration,['European'],[34467],GCST90014288
+DNA methylation PhenoAge acceleration,"['European', 'Unknown']","[34463, 6148]",GCST90014304
+DNA methylation PhenoAge acceleration,['European'],[34463],GCST90014292
+Intrinsic epigenetic age acceleration,"['European', 'Unknown']","[34461, 6148]",GCST90014302
+Intrinsic epigenetic age acceleration,['European'],[34461],GCST90014290
+DNA methylation Hannum age acceleration,"['European', 'Unknown']","[34449, 6148]",GCST90014301
+DNA methylation Hannum age acceleration,['European'],[34449],GCST90014289
+DNA methylation-estimated plasminogen activator inhibitor-1 levels,"['European', 'Unknown']","[34448, 6149]",GCST90014303
+DNA methylation-estimated plasminogen activator inhibitor-1 levels,['European'],[34448],GCST90014291
+Brain asymmetrical skew (horizontal),['European'],[33996],GCST90017147
+Brain asymmetrical skew (vertical),['European'],[33996],GCST90017148
+P wave terminal force,"['European', 'Unknown']","[33955, 6778]",GCST004824
+Vertex-wise cortical surface area,['European'],[33748],GCST90095130
+Vertex-wise cortical thickness,['European'],[33748],GCST90095131
+Vertex-wise sulcal depth,['European'],[33748],GCST90095129
+Total cerebellar volume (excluding Crus I vermis),['European'],[33265],GCST90020190
+Liver fat,['European'],[32974],GCST90029073
+Liver volume,['European'],[32860],GCST90016666
+Spleen volume,['European'],[32860],GCST90016667
+Kidney volume,['European'],[32860],GCST90016670
+Visceral adipose tissue volume,['European'],[32860],GCST90016671
+Abdominal subcutaneous adipose tissue volume,['European'],[32860],GCST90016672
+Lung volume,['European'],[32860],GCST90016668
+Percent liver fat,['European'],[32858],GCST90016673
+Liver iron content,['European'],[32858],GCST90016674
+Glomerular filtration rate (cystatin C),['European'],[32834],GCST003375
+Left ventricular ejection fraction,['European'],[32532],GCST90268125
+Left ventricular end diastolic mass,['European'],[32530],GCST90268123
+Left ventricular end-systolic volume,['European'],[32528],GCST90268126
+Left ventricular stroke volume,['European'],[32528],GCST90268130
+Left ventricular end-diastolic volume,['European'],[32525],GCST90268124
+Left ventricular end diastolic mass end diastolic volume ratio,['European'],[32520],GCST90268131
+Ascending aorta diameter,['European'],[32215],GCST90091050
+Pancreas volume,['European'],[31758],GCST90016669
+Ganglion cell inner plexiform layer (GCIPL) thickness,['European'],[31434],GCST90014267
+Retinal nerve fibre layer (RNFL) thickness,['European'],[31434],GCST90014266
+Coronary artery calcification,"['European', 'Unknown']","[28655, 8065]",GCST90278455
+Heart rate variability traits (SDNN),['European'],[27850],GCST004734
+Heart rate variability traits (RMSSD),['European'],[26523],GCST004733
+Intraocular pressure,"['European', 'Unknown', 'Unknown']","[25916, 1073, 2589]",GCST004074
+Pancreas fat,['European'],[25617],GCST90016675
+Pancreas iron content,['European'],[25617],GCST90016676
+Heart rate variability traits (pvRSA/HF),['European'],[24088],GCST004732
+Glomerular filtration rate (cystatin C),['European'],[24063],GCST004293
+Left ventricle sphericity index,['European'],[22528],GCST90268402
+Gestational age at birth (maternal effect),['European'],[22247],GCST90268419
+Ultradistal forearm bone mineral density,['European'],[21907],GCST90013422
+Vertical cup-disc ratio,"['European', 'Unknown']","[21768, 2131]",GCST004075
+Monocyte chemoattractant protein-1 levels,['European'],[21758],GCST90012007
+Kallikrein-6 levels,['European'],[21758],GCST90012008
+Galectin-3 levels,['European'],[21758],GCST90012009
+Proteinase-activated receptor 1 levels,['European'],[21758],GCST90012010
+TNF-related apoptosis-inducing ligand levels,['European'],[21758],GCST90012011
+Stem cell factor levels,['European'],[21758],GCST90012023
+Interleukin-18 levels,['European'],[21758],GCST90012024
+Interleukin-6 receptor subunit alpha levels,['European'],[21758],GCST90012025
+Tumor necrosis factor receptor 2 levels,['European'],[21758],GCST90012026
+Matrix metalloproteinase-3 levels,['European'],[21758],GCST90012027
+kallikrein-11 levels,['European'],[21758],GCST90012012
+Angiopoietin-1 receptor levels,['European'],[21758],GCST90012013
+Tissue factor levels,['European'],[21758],GCST90012014
+Heat shock 27 kDa protein levels,['European'],[21758],GCST90012028
+Tumor necrosis factor ligand superfamily member 14 levels,['European'],[21758],GCST90012029
+Myeloperoxidase levels,['European'],[21758],GCST90012031
+Matrix metalloproteinase-1 levels,['European'],[21758],GCST90012033
+Interleukin-27 levels,['European'],[21758],GCST90012017
+Macrophage colony-stimulating factor 1 levels,['European'],[21758],GCST90012018
+C-X-C motif chemokine 1 levels,['European'],[21758],GCST90012019
+Lectin-like oxidized LDL receptor 1 levels,['European'],[21758],GCST90012020
+TNF-related apoptosis-inducing ligand receptor 2 levels,['European'],[21758],GCST90012021
+Fibroblast growth factor 23 levels,['European'],[21758],GCST90012022
+Tumor necrosis factor receptor 1 levels,['European'],[21758],GCST90012015
+Platelet-derived growth factor subunit B levels,['European'],[21758],GCST90012016
+Agouti-related protein levels,['European'],[21758],GCST90012063
+Tumor necrosis factor receptor superfamily member 5 levels,['European'],[21758],GCST90012065
+Tissue-type plasminogen activator levels,['European'],[21758],GCST90012066
+Proheparin-binding EGF-like growth factor levels,['European'],[21758],GCST90012067
+Endothelial cell-specific molecule 1 levels,['European'],[21758],GCST90012068
+vascular endothelial growth factor D levels,['European'],[21758],GCST90012069
+Matrix metalloproteinase-12 levels,['European'],[21758],GCST90012070
+Spondin-1 levels,['European'],[21758],GCST90012071
+Caspase 8 levels,['European'],[21758],GCST90012072
+Cathepsin L1 levels,['European'],[21758],GCST90012073
+CX3CL1 levels,['European'],[21758],GCST90012074
+"Fatty acid-binding protein, adipocyte levels",['European'],[21758],GCST90012075
+circulating leptin levels,['European'],[21758],GCST90012076
+C-C motif chemokine 20 levels,['European'],[21758],GCST90012077
+Ovarian cancer-related tumor marker CA 125 levels,['European'],[21758],GCST90012078
+Follistatin levels,['European'],[21758],GCST90012080
+Platelet endothelial cell adhesion molecule levels,['European'],[21758],GCST90012081
+N-terminal prohormone brain natriuretic peptide levels,['European'],[21758],GCST90012082
+C-X-C motif chemokine 16 levels,['European'],[21758],GCST90012059
+Dickkopf-related protein 1 levels,['European'],[21758],GCST90012060
+SIR2-like protein 2 levels,['European'],[21758],GCST90012061
+Galanin peptide levels,['European'],[21758],GCST90012062
+Eosinophil cationic protein levels,['European'],[21758],GCST90012083
+Interleukin-8 levels,['European'],[21758],GCST90011994
+E-selectin levels,['European'],[21758],GCST90012000
+Epidermal growth factor levels,['European'],[21758],GCST90012001
+Osteoprotegerin levels,['European'],[21758],GCST90012002
+Adrenomedullin levels,['European'],[21758],GCST90011996
+CD40 ligand levels,['European'],[21758],GCST90011997
+Growth differentiation factor-15 levels,['European'],[21758],GCST90011998
+Placenta growth factor levels,['European'],[21758],GCST90011999
+Cystatin-B levels,['European'],[21758],GCST90012006
+Vascular endothelial growth factor levels,['European'],[21758],GCST90011995
+Interleukin-1-receptor antagonist levels,['European'],[21758],GCST90012004
+Interleukin-6 levels,['European'],[21758],GCST90012005
+Pro-interleukin-16 levels,['European'],[21758],GCST90012049
+Matrix metalloproteinase-10 levels,['European'],[21758],GCST90012050
+Urokinase plasminogen activator surface receptor levels,['European'],[21758],GCST90012051
+C-C motif chemokine 4 levels,['European'],[21758],GCST90012052
+Resistin levels,['European'],[21758],GCST90012034
+Tumor necrosis factor receptor superfamily member 6 levels,['European'],[21758],GCST90012035
+Pappalysin-1 levels,['European'],[21758],GCST90012036
+Receptor for advanced glycosylation end products levels,['European'],[21758],GCST90012054
+C-C motif chemokine 3 levels,['European'],[21758],GCST90012055
+Matrix metalloproteinase-7 levels,['European'],[21758],GCST90012056
+C-X-C motif chemokine 6 levels,['European'],[21758],GCST90012057
+Melusin levels,['European'],[21758],GCST90012058
+Cathepsin D levels,['European'],[21758],GCST90012053
+TNF-related activation-induced cytokine levels,['European'],[21758],GCST90012044
+Hepatocyte growth factor levels,['European'],[21758],GCST90012045
+P-selectin glycoprotein ligand 1 levels,['European'],[21758],GCST90012046
+Myoglobin levels,['European'],[21758],GCST90012047
+Thrombomodulin levels,['European'],[21758],GCST90012048
+Pentraxin-related protein PTX3 levels,['European'],[21758],GCST90012037
+Renin levels,['European'],[21758],GCST90012038
+Chitinase-3-like protein 1 levels,['European'],[21758],GCST90012039
+ST2 protein levels,['European'],[21758],GCST90012040
+Kidney injury molecule 1 levels,['European'],[21758],GCST90012041
+Membrane-bound aminopeptidase P levels,['European'],[21758],GCST90012043
+Gestational age at birth (child effect),['European'],[21262],GCST90268421
+Fructosamine levels,['European'],[20731],GCST90017143
+Optic disc area,"['European', 'Unknown']","[20373, 2131]",GCST004076
+Optic cup area,"['European', 'Unknown']","[20353, 2131]",GCST004137
+Fasting glucose adjusted for BMI,['European'],[19745],GCST90094960
+Brain shape (segment 132),['European'],[19670],GCST90013011
+Central corneal thickness,['European'],[17803],GCST006366
+Openness,['European'],[17375],GCST000922
+Conscientiousness,['European'],[17375],GCST006326
+Modified Stumvoll Insulin Sensitivity Index (BMI interaction),['European'],[16753],GCST003659
+Modified Stumvoll Insulin Sensitivity Index,['European'],[16753],GCST005178
+Modified Stumvoll Insulin Sensitivity Index (model adjusted for BMI),['European'],[16753],GCST003658
+Vascular endothelial growth factor A levels,['European'],[14744],GCST90274848
+C-X-C motif chemokine 10 levels,['European'],[14744],GCST90274780
+C-C motif chemokine 4 levels,['European'],[14744],GCST90274770
+Fibroblast growth factor 19 levels,['European'],[14744],GCST90274787
+C-X-C motif chemokine 6 levels,['European'],[14744],GCST90274783
+Interleukin-18 levels,['European'],[14744],GCST90274803
+Matrix metalloproteinase-1 levels,['European'],[14744],GCST90274826
+Matrix metalloproteinase-10 levels,['European'],[14744],GCST90274827
+Neurotrophin-3 levels,['European'],[14744],GCST90274829
+Fractalkine levels,['European'],[14743],GCST90274778
+Protein S100-A12 levels,['European'],[14743],GCST90274786
+Fibroblast growth factor 21 levels,['European'],[14743],GCST90274788
+interleukin-18 receptor 1 levels,['European'],[14743],GCST90274804
+Interleukin-6 levels,['European'],[14743],GCST90274815
+Macrophage inflammatory protein 1a levels,['European'],[14743],GCST90274825
+Oncostatin-M levels,['European'],[14736],GCST90274831
+Cystatin D levels,['European'],[14736],GCST90274777
+C-X-C motif chemokine 1 levels,['European'],[14736],GCST90274779
+C-C motif chemokine 25 levels,['European'],[14736],GCST90274768
+C-X-C motif chemokine 11 levels,['European'],[14736],GCST90274781
+C-X-C motif chemokine 5 levels,['European'],[14736],GCST90274782
+Glial cell line-derived neurotrophic factor levels,['European'],[14736],GCST90274792
+Adenosine Deaminase levels,['European'],[14736],GCST90274759
+C-C motif chemokine 19 levels,['European'],[14736],GCST90274765
+C-C motif chemokine 23 levels,['European'],[14736],GCST90274767
+CD40L receptor levels,['European'],[14736],GCST90274772
+Latency-associated peptide transforming growth factor beta 1 levels,['European'],[14736],GCST90274818
+Programmed cell death 1 ligand 1 levels,['European'],[14736],GCST90274832
+Stem cell factor levels,['European'],[14736],GCST90274833
+TNF-related activation-induced cytokine levels,['European'],[14736],GCST90274844
+Tumor necrosis factor ligand superfamily member 12 levels,['European'],[14736],GCST90274846
+Natural killer cell receptor 2B4 levels,['European'],[14735],GCST90274771
+C-X-C motif chemokine 9 levels,['European'],[14735],GCST90274784
+Delta and Notch-like epidermal growth factor-related receptor levels,['European'],[14735],GCST90274785
+Fibroblast growth factor 23 levels,['European'],[14735],GCST90274789
+T-cell surface glycoprotein CD5 levels,['European'],[14735],GCST90274773
+T-cell surface glycoprotein CD6 isoform levels,['European'],[14735],GCST90274774
+Interleukin-12 subunit beta levels,['European'],[14735],GCST90274798
+TNF-related apoptosis-inducing ligand levels,['European'],[14735],GCST90274843
+Eotaxin levels,['European'],[14734],GCST90274764
+CUB domain-containing protein 1 levels,['European'],[14734],GCST90274775
+Fms-related tyrosine kinase 3 ligand levels,['European'],[14734],GCST90274791
+Hepatocyte growth factor levels,['European'],[14734],GCST90274793
+Interleukin-10 receptor subunit beta levels,['European'],[14734],GCST90274797
+Signaling lymphocytic activation molecule levels,['European'],[14734],GCST90274835
+Urokinase-type plasminogen activator levels,['European'],[14734],GCST90274847
+Osteoprotegerin levels,['European'],[14733],GCST90274830
+Circulating levels of total-tau,['European'],[14721],GCST90095138
+Neck circumference,"['European', 'Unknown']","[13625, 1465]",GCST90017133
+Neck circumference (BMI adjusted),"['European', 'Unknown']","[13625, 1465]",GCST90017136
+Total body bone mineral density (age 0-15),['European and unknown'],[11807],GCST005345
+Tumor necrosis factor ligand superfamily member 14 levels,['European'],[11793],GCST90274842
+Interleukin-15 receptor subunit alpha levels,['European'],[11792],GCST90274800
+TNF-beta levels,['European'],[11792],GCST90274840
+Fibroblast growth factor 5 levels,['European'],[11789],GCST90274790
+Leukemia inhibitory factor receptor levels,['European'],[11784],GCST90274820
+Glomerular filtration rate in diabetics (creatinine),['European'],[11522],GCST003373
+Serum lipopolysaccharide activity,['European'],[11296],GCST90032674
+Urinary uromodulin levels,['European'],[10884],GCST002376
+Proinsulin levels,['European'],[10701],GCST001212
+Wears glasses or contact lenses (UKB data field 2207),"['European', 'European']","[405672, 49982]",GCST90042875
+Completion of the aide-memoire,"['European', 'European']","[361501, 89535]",GCST90012793
+Participation in an health questionnaire (not invited vs invited),"['European', 'European']","[336633, 114464]",GCST90012794
+Hearing difficulty/problems: No (UKB data field 2247_0),"['European', 'European']","[323343, 114424]",GCST90042881
+Skin colour - Fair (UKB data field 1717),"['European', 'European']","[304034, 121327]",GCST90077598
+Haemorrhoidal disease,"['European', 'European']","[218920, 725213]",GCST90014033
+Coffee type: Instant coffee (UKB data field 1508_2),"['European', 'European']","[200087, 157338]",GCST90041802
+"Hair colour (natural, before greying): Light brown (UKB data field 1747_3)","['European', 'European']","[185000, 270164]",GCST90041838
+"Allergic disease (asthma, hay fever or eczema)","['European', 'European']","[180129, 180709]",GCST005038
+Hair colour natural before greying - Light brown (UKB data field 1747),"['European', 'European']","[175455, 254524]",GCST90077608
+Ease of skin tanning - Get moderately tanned (UKB data field 1727),"['European', 'European']","[173164, 249406]",GCST90077603
+"Hair colour (natural, before greying): Dark brown (UKB data field 1747_4)","['European', 'European']","[171614, 283550]",GCST90041839
+Hearing difficulty problems background noise (UKB data field 2257),"['European', 'European']","[169279, 277792]",GCST90042885
+Hearing difficulty problems background noise (UKB data field 2257),"['European', 'European']","[167296, 255576]",GCST90078878
+Hair colour natural before greying - Dark brown (UKB data field 1747),"['European', 'European']","[164398, 265581]",GCST90077609
+Use of sun UV protection - Sometimes (UKB data field 2267),"['European', 'European']","[150448, 279961]",GCST90078880
+Acceptance of an invitation to participate in a mental health questionnaire,"['European', 'European']","[146074, 148713]",GCST90012792
+Long standing illness disability or infirmity (UKB data field 2188),"['European', 'European']","[142834, 278602]",GCST90078850
+Gastroesophageal reflux disease,"['European', 'European']","[129080, 473524]",GCST90000514
+Hearing difficulty problems (UKB data field 2247),"['European', 'European']","[114857, 300307]",GCST90078871
+Hearing difficulty/problems: Yes (UKB data field 2247_1),"['European', 'European']","[114318, 323449]",GCST90042882
+Self-reported risk-taking behaviour,"['European', 'European']","[113882, 322354]",GCST006810
+Comparative height size at age 10 - Taller (UKB data field 1697),"['European', 'European']","[109627, 314348]",GCST90077592
+ICD10 I10: hypertension,"['European', 'European']","[100205, 228845]",GCST90077646
+Use of sun UV protection - Always (UKB data field 2267),"['European', 'European']","[96475, 333934]",GCST90078882
+Acceptance of an invitation to wear a physical activity monitor,"['European', 'European']","[96035, 119092]",GCST90012791
+Wheeze or whistling in the chest in last year (UKB data field 2316),"['European', 'European']","[93869, 353731]",GCST90043614
+Ease of skin tanning - Get mildly or occasionally tanned (UKB data field 1727),"['European', 'European']","[93163, 329407]",GCST90077604
+Ease of skin tanning - Get very tanned (UKB data field 1727),"['European', 'European']","[89584, 332986]",GCST90077602
+Falling risk,"['European', 'European']","[89076, 362103]",GCST90012857
+General population vs COVID-19 exposed negative controls,"['European', 'European', 'Unknown', 'Unknown', 'Unknown', 'Unknown']","[81904, 707, 11039, 264, 5564, 89]",GCST90094648
+"Coffee type: Ground coffee (include espresso, filter etc) (UKB data field 1508_3)","['European', 'European']","[81903, 275522]",GCST90041803
+Skin colour - Light olive (UKB data field 1717),"['European', 'European']","[80996, 344365]",GCST90077599
+Prostate cancer,"['European', 'European']","[79148, 61106]",GCST006085
+Lipid lowering medication use,"['European', 'European']","[78394, 242364]",GCST90081493
+Breast cancer,"['European', 'European']","[76192, 63082]",GCST004988
+Ease of skin tanning - Never tan only burn (UKB data field 1727),"['European', 'European']","[75919, 346651]",GCST90077605
+Allergic disease,"['European', 'European']","[73382, 280642]",GCST90081451
+Hair/balding pattern: Pattern 1 (UKB data field 2395_1),"['European', 'European']","[66172, 140864]",GCST90043616
+Medication for pain relief constipation heartburn - Aspirin (UKB data field 6154),"['European', 'European']","[62503, 135215]",GCST90079459
+Asthma,"['European', 'European']","[61807, 313658]",GCST90081461
+"Behaviour of cancer tumour: malignant, primary site, PHESANT recoding (UKB data field 40012_3)","['European', 'European']","[60858, 395490]",GCST90043946
+Atrial fibrillation,"['European', 'European']","[60620, 970216]",GCST006414
+Treatment or medication use - aspirin,"['European', 'European']","[59606, 261152]",GCST90078044
+High cholesterol,"['European', 'European']","[57365, 274389]",GCST90077883
+Irritable bowel syndrome,"['European', 'European']","[53400, 433201]",GCST90016564
+"Hair colour (natural, before greying): Blonde (UKB data field 1747_1)","['European', 'European']","[51424, 403740]",GCST90041836
+ICD10 E78: Disorders of lipoprotein metabolism and other lipidemias,"['European', 'European']","[51365, 320834]",GCST90079768
+Asthma,"['European', 'European']","[50973, 280781]",GCST90077671
+Sporadic miscarriage,"['European', 'European']","[49996, 174109]",GCST011888
+ICD10 E78: high cholesterol,"['European', 'European']","[49060, 279992]",GCST90077884
+Low hand grip strength (60 years and older) (EWGSOP),"['European', 'European']","[48596, 207927]",GCST90007526
+Hair colour natural before greying - Blonde (UKB data field 1747),"['European', 'European']","[48595, 381384]",GCST90077606
+Type 2 diabetes,"['European', 'European', 'Unknown', 'Unknown']","[48286, 250671, 33126, 120161]",GCST007515
+Type 2 diabetes,"['European', 'European']","[48286, 250671]",GCST007517
+Type 2 diabetes (adjusted for BMI),"['European', 'European', 'Unknown', 'Unknown']","[48286, 250671, 33126, 120161]",GCST007516
+Type 2 diabetes (adjusted for BMI),"['European', 'European']","[48286, 250671]",GCST007518
+Ambidextrousness,"['European', 'European']","[47637, 1422823]",GCST90013420
+Asthma vs allergic disease,"['European', 'European']","[47628, 280686]",GCST90081459
+Heart failure,"['European', 'European']","[47309, 930014]",GCST009541
+Breast cancer,"['European', 'European']","[46785, 42892]",GCST007236
+Atopy,"['European', 'European']","[46691, 313235]",GCST90081463
+ICD10 E78.0: Pure hypercholesterolemia,"['European', 'European']","[45730, 332541]",GCST90079766
+ICD10 J45: Asthma,"['European', 'European']","[45415, 283636]",GCST90077672
+Smoking status - Current (UKB data field 20116),"['European', 'European']","[45239, 384016]",GCST90078302
+Stroke,"['European', 'European']","[40585, 406111]",GCST006906
+Asthma strict,"['European', 'European']","[39436, 336853]",GCST90081460
+Osteoarthritis of the hip or knee,"['European', 'European']","[39427, 378169]",GCST007092
+Hair/balding pattern: Pattern 4 (UKB data field 2395_4),"['European', 'European']","[37860, 169176]",GCST90043619
+Illnesses of father - Diabetes (UKB data field 20107),"['European', 'European']","[36789, 382809]",GCST90078263
+Illnesses of mother: Alzheimer's disease/dementia (UKB data field 20110_10),"['European', 'European']","[36155, 381650]",GCST90042678
+Airways medication use,"['European', 'European']","[36115, 284643]",GCST90081450
+Cancer (UKB data field 2453),"['European', 'European']","[35762, 418974]",GCST90043628
+Skin colour - Very fair (UKB data field 1717),"['European', 'European']","[35374, 389987]",GCST90077597
+Trauma exposure,"['European', 'European']","[35269, 63451]",GCST009982
+Illnesses of father - Lung cancer (UKB data field 20107),"['European', 'European']","[35172, 384425]",GCST90078259
+Ischemic stroke,"['European', 'European']","[34217, 406111]",GCST006908
+Current tobacco smoking on most or all days (UKB data field 1239),"['European', 'European']","[33523, 396975]",GCST90077584
+Major depressive disorder,"['European', 'European']","[29475, 63482]",GCST009979
+Lung cancer,"['European', 'European']","[29266, 56450]",GCST004748
+Amyotrophic lateral sclerosis,"['European', 'European']","[27205, 110881]",GCST90027164
+Asthma (adult onset),"['European', 'European']","[26582, 300671]",GCST007799
+Knee osteoarthritis,"['European', 'European']","[24955, 378169]",GCST007090
+Lung cancer in ever smokers,"['European', 'European']","[23223, 16964]",GCST004749
+Atopic dermatitis,"['European', 'European']","[22474, 774187]",GCST90027161
+Coronary heart disease,"['European', 'European']","[22233, 64762]",GCST000998
+Hypothyroidism or myxoedema,"['European', 'European']","[22064, 309690]",GCST90077730
+Diabetes mellitus (UKB data field 2443),"['European', 'European']","[22058, 407681]",GCST90078949
+Diabetes mellitus (UKB data field 2443),"['European', 'European']","[21969, 433048]",GCST90043627
+Chronic obstructive pulmonary disease x current smoker interaction (2df),"['European', 'European']","[21077, 179689]",GCST90016590
+Chronic obstructive pulmonary disease x ever smoker interaction (main effect),"['European', 'European']","[21077, 179689]",GCST90016586
+Chronic obstructive pulmonary disease x ever smoker interaction (2df),"['European', 'European']","[21077, 179689]",GCST90016585
+Chronic obstructive pulmonary disease x ever smoker interaction (1df),"['European', 'European']","[21077, 179689]",GCST90016587
+Chronic obstructive pulmonary disease x current smoker interaction (main effect),"['European', 'European']","[21077, 179689]",GCST90016591
+Chronic obstructive pulmonary disease x current smoker interaction (1df),"['European', 'European']","[21077, 179689]",GCST90016592
+Amyotrophic lateral sclerosis,"['European', 'European']","[20806, 59804]",GCST005647
+"Hair colour (natural, before greying): Black (UKB data field 1747_5)","['European', 'European']","[20700, 434464]",GCST90041840
+"Hair colour (natural, before greying): Red (UKB data field 1747_2)","['European', 'European']","[20692, 434472]",GCST90041837
+Hair colour natural before greying - Black (UKB data field 1747),"['European', 'European']","[20623, 409356]",GCST90077610
+Low hand grip strength (60 years and older) (FNIH),"['European', 'European']","[20335, 236188]",GCST90007529
+Eczema,"['European', 'European']","[20016, 380433]",GCST90044763
+Asthma,"['European', 'European']","[19954, 107715]",GCST006862
+ICD10 R31: Hematuria,"['European', 'European']","[19710, 363299]",GCST90080842
+Hair colour natural before greying - Red (UKB data field 1747),"['European', 'European']","[19553, 410426]",GCST90077607
+Type 1 diabetes,"['European', 'European']","[18942, 501638]",GCST90014023
+Treatment or medication use - levothyroxine sodium (UKB data field 20003_1141191044),"['European', 'European']","[18688, 437588]",GCST90042535
+Treatment or medication use - amlodipine (UKB data field 20003_1140879802),"['European', 'European']","[18435, 437841]",GCST90042195
+Breast cancer,"['European', 'European']","[17881, 410350]",GCST90011804
+Basal cell carcinoma,"['European', 'European']","[17416, 375455]",GCST90013410
+Cancer,"['European', 'European']","[17131, 39506]",GCST90086052
+Alzheimer's disease (late onset),"['European', 'European']","[17008, 37154]",GCST002245
+Childhood asthma vs allergic disease,"['European', 'European']","[16952, 280473]",GCST90081473
+Treatment or medication use - atorvastatin,"['European', 'European']","[16654, 304104]",GCST90078178
+Chronic obstructive pulmonary disease in non-current smokers,"['European', 'European']","[16488, 169688]",GCST90016594
+Advanced age-related macular degeneration,"['European', 'European']","[16144, 17832]",GCST003219
+Coronary atherosclerosis (PheCode 411.4),"['European', 'European']","[16041, 440307]",GCST90043957
+Psoriasis,"['European', 'European']","[15967, 28194]",GCST90019016
+Hearing aid user (UKB data field 3393),"['European', 'European']","[15741, 266238]",GCST90079053
+Osteoarthritis (hip),"['European', 'European']","[15704, 378169]",GCST007091
+Preeclampsia or other maternal hypertension (maternal genotype effect),"['European', 'European']","[15200, 115007]",GCST90269904
+Cardiovascular disease,"['European', 'European']","[15009, 41628]",GCST90086056
+Cardiovascular disease,"['European', 'European']","[15009, 41628]",GCST90086057
+Cataract (PheCode 366),"['European', 'European']","[14867, 441481]",GCST90043785
+Myocardial infarction,"['European', 'Unknown', 'European', 'Unknown']","[14825, 2680, 380970, 73242]",GCST011364
+Multiple sclerosis,"['European', 'European']","[14498, 24091]",GCST005531
+Early age-related macular degeneration,"['European', 'European']","[14034, 91214]",GCST010723
+Asthma (childhood onset),"['European', 'European']","[13962, 300671]",GCST007800
+Allergic rhinitis,"['European', 'European']","[13936, 42701]",GCST90086042
+Hearing aid user (UKB data field 3393),"['European', 'European']","[13905, 262475]",GCST90043741
+Rheumatoid arthritis,"['European', 'European']","[13838, 33742]",GCST005569
+Treatment or medication use - atorvastatin (UKB data field 20003_1141146234),"['European', 'European']","[13604, 442672]",GCST90042376
+Major depressive disorder in trauma exposed individuals,"['European', 'European']","[13393, 10701]",GCST009980
+Trauma exposure in major depressive disorder,"['European', 'European']","[13393, 9487]",GCST009983
+Barrett's esophagus,"['European', 'European']","[13358, 43071]",GCST90000515
+Type 2 diabetes,"['European', 'European']","[12931, 57196]",GCST005413
+Endometrial cancer,"['European', 'European']","[12906, 108979]",GCST006464
+Inflammatory bowel disease,"['European', 'European']","[12882, 21770]",GCST003043
+Eczema or dermatitis,"['European', 'European']","[12790, 318964]",GCST90077853
+Osteoarthritis (self-reported),"['European', 'European']","[12658, 50898]",GCST005811
+Amyotrophic lateral sclerosis,"['European', 'European']","[12577, 23475]",GCST004692
+Chronic obstructive pulmonary disease in ever smokers,"['European', 'European']","[12446, 59145]",GCST90016588
+Chronic kidney disease,"['European', 'European']","[12385, 104780]",GCST003374
+Type 2 diabetes New Strict,"['European', 'European']","[11970, 340301]",GCST90081517
+Treatment or medication use - metformin (UKB data field 20003_1140884600),"['European', 'European']","[11358, 444918]",GCST90042245
+Lung adenocarcinoma,"['European', 'European']","[11273, 55483]",GCST004744
+Malignant neoplasm of female breast (PheCode 174.11),"['European', 'European']","[10971, 445377]",GCST90041833
+Venous thromboembolism,"['European', 'European']","[10941, 220601]",GCST90081530
+Preeclampsia or small for gestational age infant (maternal genotype effect),"['European', 'European']","[10800, 119225]",GCST90269905
+Prostate cancer,"['European', 'European']","[10792, 410350]",GCST90011808
+Trauma exposure in major depressive disorder-negative individuals,"['European', 'European']","[10701, 39677]",GCST009984
+Psoriasis,"['European', 'European']","[10588, 22806]",GCST005527
+ICD10 L30: Eczema or dermatitis,"['European', 'European']","[10233, 318819]",GCST90077854
+"Cancer code, self-reported: breast cancer (UKB data field 20001_1002)","['European', 'European']","[10152, 446124]",GCST90041886
+Osteoarthritis (hospital diagnosed),"['European', 'European']","[10083, 40425]",GCST005814
+Type 1 diabetes,"['European', 'European']","[9934, 16956]",GCST001255
+Anticoagulant medicine use,"['European', 'European']","[9858, 310900]",GCST90081455
+Multiple sclerosis,"['European', 'European']","[9772, 16849]",GCST001198
+Major depressive disorder in trauma-unexposed individuals,"['European', 'European']","[9487, 39677]",GCST009981
+Type 1 diabetes,"['European', 'European']","[9266, 15574]",GCST010681
+Asthma,"['European', 'European']","[9209, 47428]",GCST90086047
+Endometrial cancer (endometrioid histology),"['European', 'European']","[8758, 46126]",GCST006465
+Chronic obstructive pulmonary disease in never smokers,"['European', 'European']","[8631, 120544]",GCST90016589
+Myocardial infarction (PheCode 411.2),"['European', 'European']","[8528, 447820]",GCST90043954
+Malignant neoplasm of prostate (UKB data field 40006),"['European', 'European']","[8498, 24727]",GCST90079112
+Nonalcoholic fatty liver disease,"['European', 'European']","[8434, 770180]",GCST90091033
+Atrial fibrillation and flutter (PheCode 427.2),"['European', 'European']","[8404, 447944]",GCST90043977
+Primary biliary cholangitis,"['European', 'European']","[8021, 16489]",GCST90061440
+ICD10 C61: Malignant neoplasm of prostate,"['European', 'European']","[7769, 201039]",GCST90043894
+Bipolar disorder,"['European', 'European']","[7647, 27303]",GCST003724
+Type 1 diabetes,"['European', 'European']","[7514, 9045]",GCST000392
+Ulcerative colitis,"['European', 'European']","[7483, 21211]",GCST002548
+Type 1 diabetes,"['European', 'European']","[7467, 10218]",GCST90000529
+Squamous cell lung carcinoma,"['European', 'European']","[7426, 55627]",GCST004750
+Osteoarthritis,"['European', 'European']","[7410, 11009]",GCST001592
+Major depressive disorder,"['European', 'European']","[7264, 49373]",GCST90086062
+Major depressive disorder,"['European', 'European']","[7264, 49373]",GCST90086060
+Skin colour - Dark olive (UKB data field 1717),"['European', 'European']","[7210, 418151]",GCST90077600
+Ischemic stroke (cardioembolic),"['European', 'European']","[7193, 406111]",GCST006910
+Ulcerative colitis,"['European', 'European']","[6968, 20464]",GCST003045
+Glaucoma (UKB data field 6148),"['European', 'European']","[6848, 30950]",GCST90079431
+Melanoma,"['European', 'European']","[6777, 410350]",GCST90011809
+Ulcerative colitis,"['European', 'European']","[6687, 19718]",GCST000964
+Type 1 diabetes,"['European', 'European', 'European', 'European']","[6683, 12173, 2601, 69]",GCST005536
+Nonalcoholic fatty liver disease,"['European', 'European']","[6623, 26318]",GCST90275041
+"Esophagitis, GERD and related diseases (PheCode 530.1)","['European', 'European']","[6591, 449757]",GCST90044123
+Osteoarthritis of the hip or knee (hospital diagnosed),"['European', 'European']","[6586, 26384]",GCST005812
+Cervical cancer,"['European', 'European']","[6563, 410350]",GCST90011816
+Crohn's disease,"['European', 'European']","[6333, 15056]",GCST000879
+Barrett's esophagus,"['European', 'European']","[6167, 17159]",GCST003738
+ICD10 C50.9: Malignant neoplasm of breast of unspecified site,"['European', 'European']","[6087, 450261]",GCST90043889
+Lacunar stroke,"['European', 'European']","[6030, 248929]",GCST90014122
+Crohn's disease,"['European', 'European']","[5956, 14927]",GCST003044
+Cancer of prostate (PheCode 185),"['European', 'European']","[5796, 203012]",GCST90041853
+Rotator cuff injury,"['European', 'European']","[5701, 406310]",GCST90044700
+ICD10 L40: Psoriasis,"['European', 'European']","[5629, 377623]",GCST90080349
+Rheumatoid arthritis,"['European', 'European']","[5539, 20169]",GCST000679
+Obesity,"['European', 'European']","[5530, 8318]",GCST001475
+Psoriasis,"['European', 'European']","[5389, 326365]",GCST90077855
+Ischemic stroke (small-vessel),"['European', 'European']","[5386, 192662]",GCST006909
+Type 2 diabetes,"['European', 'European']","[5277, 15702]",GCST005898
+Treatment or medication use - allopurinol,"['European', 'European']","[5255, 315503]",GCST90078077
+Systemic lupus erythematosus,"['European', 'European']","[5201, 9066]",GCST003156
+Parkinson's disease,"['European', 'European']","[5167, 5366]",GCST012431

@@ -20,6 +20,15 @@ def run_job(job_id,email,ancestry,models,chrNumber,file):
                 json.dump(jobs, f)
 
     try:
+        # cmd = [
+        #     'Rscript', "./methods/BLISS/BLISS_Association.R",
+        #     '--sumstats', file,
+        #     '--sumstats_dir', directory,
+        #     '--weights_models', models,
+        #     '--CHR', str(chrNumber),
+        #     '--output_dir', './out',
+        #     '--output_name', f'stroke_res_{models}_CHR{chrNumber}.txt'
+        # ]
         cmd = [
             'Rscript', "./methods/BLISS/BLISS_Association.R",
             '--sumstats', file,
@@ -29,6 +38,7 @@ def run_job(job_id,email,ancestry,models,chrNumber,file):
             '--output_dir', './out',
             '--output_name', f'stroke_res_{models}_CHR{chrNumber}.txt'
         ]
+        
         process = subprocess.Popen(cmd, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
         stdout, stderr = process.communicate()
 

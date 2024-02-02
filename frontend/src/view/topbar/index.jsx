@@ -32,6 +32,11 @@ export const TopBar = () => {
     navigate("/result");
   }
 
+  const gc = () => {
+    handleClose();
+    navigate("/gwascatalog");
+  }
+
   const handleUploadNewData = () => {
     handleClose();
     navigate("/data");
@@ -76,6 +81,7 @@ export const TopBar = () => {
           open={Boolean(anchorEl)}
           onClose={handleClose}
         >
+          <MenuItem onClick={gc}>GWAS Catalog</MenuItem>
           <MenuItem onClick={handleMyJobs}>My Jobs</MenuItem>
           <MenuItem onClick={handleUploadNewData}>Upload New Data</MenuItem>
           <MenuItem onClick={handleUploadNewJob}>Submit New Job</MenuItem>
